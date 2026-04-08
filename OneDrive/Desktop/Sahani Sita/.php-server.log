@@ -1,0 +1,1275 @@
+[Wed Apr  8 01:29:18 2026] PHP 8.2.12 Development Server (http://127.0.0.1:8000) started
+[Wed Apr  8 01:29:22 2026] 127.0.0.1:50670 Accepted
+[Wed Apr  8 01:29:22 2026] 127.0.0.1:50670 [200]: GET /index.php
+[Wed Apr  8 01:29:22 2026] 127.0.0.1:50670 Closing
+[Wed Apr  8 01:29:22 2026] 127.0.0.1:50671 Accepted
+[Wed Apr  8 01:29:22 2026] 127.0.0.1:50672 Accepted
+[Wed Apr  8 01:29:22 2026] 127.0.0.1:50671 [200]: GET /recipes.php
+[Wed Apr  8 01:29:22 2026] 127.0.0.1:50671 Closing
+[Wed Apr  8 01:29:22 2026] 127.0.0.1:50674 Accepted
+[Wed Apr  8 01:29:22 2026] 127.0.0.1:50672 [200]: GET /about.php
+[Wed Apr  8 01:29:22 2026] 127.0.0.1:50672 Closing
+[Wed Apr  8 01:29:22 2026] 127.0.0.1:50675 Accepted
+[Wed Apr  8 01:29:22 2026] 127.0.0.1:50674 [200]: GET /contact.php
+[Wed Apr  8 01:29:22 2026] 127.0.0.1:50674 Closing
+[Wed Apr  8 01:29:22 2026] 127.0.0.1:50675 [200]: GET /admin/login.php
+[Wed Apr  8 01:29:22 2026] 127.0.0.1:50675 Closing
+[Wed Apr  8 01:29:36 2026] 127.0.0.1:49961 Accepted
+[Wed Apr  8 01:29:36 2026] 127.0.0.1:49961 [302]: POST /admin/login.php
+[Wed Apr  8 01:29:36 2026] 127.0.0.1:49961 Closing
+[Wed Apr  8 01:29:36 2026] 127.0.0.1:49963 Accepted
+[Wed Apr  8 01:29:36 2026] 127.0.0.1:49963 [200]: GET /admin/dashboard.php
+[Wed Apr  8 01:29:36 2026] 127.0.0.1:49963 Closing
+[Wed Apr  8 01:29:39 2026] 127.0.0.1:49968 Accepted
+[Wed Apr  8 01:29:39 2026] 127.0.0.1:49968 [200]: GET /recipe-detail.php?id=2
+[Wed Apr  8 01:29:39 2026] 127.0.0.1:49968 Closing
+[Wed Apr  8 01:29:43 2026] 127.0.0.1:49971 Accepted
+[Wed Apr  8 01:29:43 2026] 127.0.0.1:49971 [302]: POST /admin/dashboard.php
+[Wed Apr  8 01:29:43 2026] 127.0.0.1:49971 Closing
+[Wed Apr  8 01:29:43 2026] 127.0.0.1:49973 Accepted
+[Wed Apr  8 01:29:43 2026] 127.0.0.1:49973 [200]: GET /admin/dashboard.php?status=created
+[Wed Apr  8 01:29:43 2026] 127.0.0.1:49973 Closing
+[Wed Apr  8 01:30:02 2026] 127.0.0.1:57524 Accepted
+[Wed Apr  8 01:30:02 2026] 127.0.0.1:57524 [302]: POST /admin/dashboard.php
+[Wed Apr  8 01:30:02 2026] 127.0.0.1:57524 Closing
+[Wed Apr  8 01:30:07 2026] 127.0.0.1:57592 Accepted
+[Wed Apr  8 01:30:07 2026] 127.0.0.1:57592 [200]: GET /index.php
+[Wed Apr  8 01:30:07 2026] 127.0.0.1:57592 Closing
+[Wed Apr  8 01:30:07 2026] 127.0.0.1:56543 Accepted
+[Wed Apr  8 01:30:07 2026] 127.0.0.1:56543 [200]: GET /style.css
+[Wed Apr  8 01:30:07 2026] 127.0.0.1:56543 Closing
+[Wed Apr  8 01:30:07 2026] 127.0.0.1:59990 Accepted
+[Wed Apr  8 01:30:07 2026] 127.0.0.1:54476 Accepted
+[Wed Apr  8 01:30:07 2026] 127.0.0.1:59990 [200]: GET /images/logo.png
+[Wed Apr  8 01:30:07 2026] 127.0.0.1:54476 [200]: GET /images/jerzygorecki-vegetables-1584999.jpg
+[Wed Apr  8 01:30:07 2026] 127.0.0.1:63171 Accepted
+[Wed Apr  8 01:30:07 2026] 127.0.0.1:56630 Accepted
+[Wed Apr  8 01:30:07 2026] 127.0.0.1:63171 [200]: GET /images/hoaluu-pizza-2589575.jpg
+[Wed Apr  8 01:30:07 2026] 127.0.0.1:59990 Closing
+[Wed Apr  8 01:30:07 2026] 127.0.0.1:56630 [200]: GET /images/phamkhanhquynhtrang-smoothie-6760874.jpg
+[Wed Apr  8 01:30:07 2026] 127.0.0.1:63171 Closing
+[Wed Apr  8 01:30:07 2026] 127.0.0.1:54476 Closing
+[Wed Apr  8 01:30:07 2026] 127.0.0.1:56630 Closing
+[Wed Apr  8 01:30:08 2026] 127.0.0.1:58547 Accepted
+[Wed Apr  8 01:30:08 2026] 127.0.0.1:58547 [404]: GET /favicon.ico - No such file or directory
+[Wed Apr  8 01:30:08 2026] 127.0.0.1:58547 Closing
+[Wed Apr  8 01:30:53 2026] 127.0.0.1:50355 Accepted
+[Wed Apr  8 01:30:53 2026] 127.0.0.1:50355 [200]: GET /recipes.php
+[Wed Apr  8 01:30:53 2026] 127.0.0.1:50355 Closing
+[Wed Apr  8 01:30:53 2026] 127.0.0.1:51029 Accepted
+[Wed Apr  8 01:30:53 2026] 127.0.0.1:51029 [200]: GET /images/lukasbieri-mediterranean-cuisine-2378758.jpg
+[Wed Apr  8 01:30:53 2026] 127.0.0.1:57175 Accepted
+[Wed Apr  8 01:30:53 2026] 127.0.0.1:50094 Accepted
+[Wed Apr  8 01:30:53 2026] 127.0.0.1:56601 Accepted
+[Wed Apr  8 01:30:53 2026] 127.0.0.1:64397 Accepted
+[Wed Apr  8 01:30:53 2026] 127.0.0.1:57175 [200]: GET /style.css
+[Wed Apr  8 01:30:53 2026] 127.0.0.1:52449 Accepted
+[Wed Apr  8 01:30:53 2026] 127.0.0.1:50094 [200]: GET /images/cegoh-cupcakes-1133146.jpg
+[Wed Apr  8 01:30:53 2026] 127.0.0.1:57175 Closing
+[Wed Apr  8 01:30:53 2026] 127.0.0.1:56601 [200]: GET /images/logo.png
+[Wed Apr  8 01:30:53 2026] 127.0.0.1:64397 [200]: GET /images/jerzygorecki-vegetables-1584999.jpg
+[Wed Apr  8 01:30:53 2026] 127.0.0.1:52449 [200]: GET /images/hoaluu-pizza-2589575.jpg
+[Wed Apr  8 01:30:53 2026] 127.0.0.1:56601 Closing
+[Wed Apr  8 01:30:53 2026] 127.0.0.1:57453 Accepted
+[Wed Apr  8 01:30:53 2026] 127.0.0.1:57453 [200]: GET /images/phamkhanhquynhtrang-smoothie-6760874.jpg
+[Wed Apr  8 01:30:53 2026] 127.0.0.1:52449 Closing
+[Wed Apr  8 01:30:53 2026] 127.0.0.1:64397 Closing
+[Wed Apr  8 01:30:53 2026] 127.0.0.1:57453 Closing
+[Wed Apr  8 01:30:53 2026] 127.0.0.1:50094 Closing
+[Wed Apr  8 01:30:53 2026] 127.0.0.1:51029 Closing
+[Wed Apr  8 01:31:01 2026] 127.0.0.1:55907 Accepted
+[Wed Apr  8 01:31:01 2026] 127.0.0.1:55907 [200]: GET /about.php
+[Wed Apr  8 01:31:01 2026] 127.0.0.1:55907 Closing
+[Wed Apr  8 01:31:01 2026] 127.0.0.1:58726 Accepted
+[Wed Apr  8 01:31:01 2026] 127.0.0.1:58726 [200]: GET /style.css
+[Wed Apr  8 01:31:01 2026] 127.0.0.1:53883 Accepted
+[Wed Apr  8 01:31:01 2026] 127.0.0.1:53883 [200]: GET /images/logo.png
+[Wed Apr  8 01:31:01 2026] 127.0.0.1:58726 Closing
+[Wed Apr  8 01:31:01 2026] 127.0.0.1:53883 Closing
+[Wed Apr  8 01:31:04 2026] 127.0.0.1:53187 Accepted
+[Wed Apr  8 01:31:04 2026] 127.0.0.1:65190 Accepted
+[Wed Apr  8 01:31:04 2026] 127.0.0.1:53187 [200]: GET /contact.php
+[Wed Apr  8 01:31:04 2026] 127.0.0.1:53187 Closing
+[Wed Apr  8 01:31:04 2026] 127.0.0.1:65190 [200]: GET /images/phone-call.png
+[Wed Apr  8 01:31:04 2026] 127.0.0.1:63038 Accepted
+[Wed Apr  8 01:31:04 2026] 127.0.0.1:63192 Accepted
+[Wed Apr  8 01:31:04 2026] 127.0.0.1:63038 [200]: GET /style.css
+[Wed Apr  8 01:31:04 2026] 127.0.0.1:63192 [200]: GET /images/logo.png
+[Wed Apr  8 01:31:04 2026] 127.0.0.1:65190 Closing
+[Wed Apr  8 01:31:04 2026] 127.0.0.1:63038 Closing
+[Wed Apr  8 01:31:04 2026] 127.0.0.1:61411 Accepted
+[Wed Apr  8 01:31:04 2026] 127.0.0.1:63192 Closing
+[Wed Apr  8 01:31:04 2026] 127.0.0.1:61411 [200]: GET /images/whatsapp.png
+[Wed Apr  8 01:31:04 2026] 127.0.0.1:61411 Closing
+[Wed Apr  8 01:31:08 2026] 127.0.0.1:64175 Accepted
+[Wed Apr  8 01:31:08 2026] 127.0.0.1:55948 Accepted
+[Wed Apr  8 01:31:08 2026] 127.0.0.1:64175 [200]: GET /admin/login.php
+[Wed Apr  8 01:31:08 2026] 127.0.0.1:64175 Closing
+[Wed Apr  8 01:31:08 2026] 127.0.0.1:55948 [200]: GET /style.css
+[Wed Apr  8 01:31:08 2026] 127.0.0.1:63103 Accepted
+[Wed Apr  8 01:31:08 2026] 127.0.0.1:63103 [200]: GET /images/logo.png
+[Wed Apr  8 01:31:08 2026] 127.0.0.1:55948 Closing
+[Wed Apr  8 01:31:08 2026] 127.0.0.1:63103 Closing
+[Wed Apr  8 01:31:19 2026] 127.0.0.1:58032 Accepted
+[Wed Apr  8 01:31:19 2026] 127.0.0.1:61632 Accepted
+[Wed Apr  8 01:31:19 2026] 127.0.0.1:58032 [200]: GET /index.php
+[Wed Apr  8 01:31:19 2026] 127.0.0.1:58032 Closing
+[Wed Apr  8 01:31:19 2026] 127.0.0.1:61632 [200]: GET /style.css
+[Wed Apr  8 01:31:19 2026] 127.0.0.1:52444 Accepted
+[Wed Apr  8 01:31:19 2026] 127.0.0.1:57306 Accepted
+[Wed Apr  8 01:31:19 2026] 127.0.0.1:61632 Closing
+[Wed Apr  8 01:31:19 2026] 127.0.0.1:56740 Accepted
+[Wed Apr  8 01:31:19 2026] 127.0.0.1:52444 [200]: GET /images/logo.png
+[Wed Apr  8 01:31:19 2026] 127.0.0.1:57306 [200]: GET /images/jerzygorecki-vegetables-1584999.jpg
+[Wed Apr  8 01:31:19 2026] 127.0.0.1:56740 [200]: GET /images/hoaluu-pizza-2589575.jpg
+[Wed Apr  8 01:31:19 2026] 127.0.0.1:58306 Accepted
+[Wed Apr  8 01:31:19 2026] 127.0.0.1:52444 Closing
+[Wed Apr  8 01:31:19 2026] 127.0.0.1:58306 [200]: GET /images/phamkhanhquynhtrang-smoothie-6760874.jpg
+[Wed Apr  8 01:31:19 2026] 127.0.0.1:57306 Closing
+[Wed Apr  8 01:31:19 2026] 127.0.0.1:56740 Closing
+[Wed Apr  8 01:31:19 2026] 127.0.0.1:58306 Closing
+[Wed Apr  8 01:31:44 2026] 127.0.0.1:54548 Accepted
+[Wed Apr  8 01:31:45 2026] 127.0.0.1:64639 Accepted
+[Wed Apr  8 01:31:45 2026] 127.0.0.1:54548 [200]: GET /index.php
+[Wed Apr  8 01:31:45 2026] 127.0.0.1:54548 Closing
+[Wed Apr  8 01:31:45 2026] 127.0.0.1:64639 [200]: GET /style.css
+[Wed Apr  8 01:31:45 2026] 127.0.0.1:55342 Accepted
+[Wed Apr  8 01:31:45 2026] 127.0.0.1:58425 Accepted
+[Wed Apr  8 01:31:45 2026] 127.0.0.1:64639 Closing
+[Wed Apr  8 01:31:45 2026] 127.0.0.1:51300 Accepted
+[Wed Apr  8 01:31:45 2026] 127.0.0.1:55342 [200]: GET /images/logo.png
+[Wed Apr  8 01:31:45 2026] 127.0.0.1:58425 [200]: GET /images/jerzygorecki-vegetables-1584999.jpg
+[Wed Apr  8 01:31:45 2026] 127.0.0.1:51300 [200]: GET /images/hoaluu-pizza-2589575.jpg
+[Wed Apr  8 01:31:45 2026] 127.0.0.1:63916 Accepted
+[Wed Apr  8 01:31:45 2026] 127.0.0.1:63916 [200]: GET /images/phamkhanhquynhtrang-smoothie-6760874.jpg
+[Wed Apr  8 01:31:45 2026] 127.0.0.1:55342 Closing
+[Wed Apr  8 01:31:45 2026] 127.0.0.1:51300 Closing
+[Wed Apr  8 01:31:45 2026] 127.0.0.1:58425 Closing
+[Wed Apr  8 01:31:45 2026] 127.0.0.1:63916 Closing
+[Wed Apr  8 01:34:31 2026] 127.0.0.1:51644 Accepted
+[Wed Apr  8 01:34:31 2026] 127.0.0.1:60906 Accepted
+[Wed Apr  8 01:34:31 2026] 127.0.0.1:51644 [200]: GET /index.php
+[Wed Apr  8 01:34:31 2026] 127.0.0.1:51644 Closing
+[Wed Apr  8 01:34:31 2026] 127.0.0.1:60906 [200]: GET /style.css
+[Wed Apr  8 01:34:31 2026] 127.0.0.1:57500 Accepted
+[Wed Apr  8 01:34:31 2026] 127.0.0.1:60906 Closing
+[Wed Apr  8 01:34:31 2026] 127.0.0.1:56194 Accepted
+[Wed Apr  8 01:34:31 2026] 127.0.0.1:57500 [200]: GET /images/logo.png
+[Wed Apr  8 01:34:31 2026] 127.0.0.1:64371 Accepted
+[Wed Apr  8 01:34:31 2026] 127.0.0.1:56194 [200]: GET /images/jerzygorecki-vegetables-1584999.jpg
+[Wed Apr  8 01:34:31 2026] 127.0.0.1:61138 Accepted
+[Wed Apr  8 01:34:31 2026] 127.0.0.1:64371 [200]: GET /images/hoaluu-pizza-2589575.jpg
+[Wed Apr  8 01:34:31 2026] 127.0.0.1:61138 [200]: GET /images/phamkhanhquynhtrang-smoothie-6760874.jpg
+[Wed Apr  8 01:34:31 2026] 127.0.0.1:57500 Closing
+[Wed Apr  8 01:34:31 2026] 127.0.0.1:64371 Closing
+[Wed Apr  8 01:34:32 2026] 127.0.0.1:61138 Closing
+[Wed Apr  8 01:34:32 2026] 127.0.0.1:56194 Closing
+[Wed Apr  8 01:34:50 2026] 127.0.0.1:52172 Accepted
+[Wed Apr  8 01:34:50 2026] 127.0.0.1:54544 Accepted
+[Wed Apr  8 01:34:50 2026] 127.0.0.1:52172 [200]: GET /admin/login.php
+[Wed Apr  8 01:34:50 2026] 127.0.0.1:52172 Closing
+[Wed Apr  8 01:34:50 2026] 127.0.0.1:54544 [200]: GET /style.css
+[Wed Apr  8 01:34:50 2026] 127.0.0.1:50078 Accepted
+[Wed Apr  8 01:34:50 2026] 127.0.0.1:54544 Closing
+[Wed Apr  8 01:34:50 2026] 127.0.0.1:50078 [200]: GET /images/logo.png
+[Wed Apr  8 01:34:50 2026] 127.0.0.1:50078 Closing
+[Wed Apr  8 01:35:31 2026] 127.0.0.1:49666 Accepted
+[Wed Apr  8 01:35:31 2026] 127.0.0.1:49666 [200]: POST /admin/login.php
+[Wed Apr  8 01:35:31 2026] 127.0.0.1:49666 Closing
+[Wed Apr  8 01:35:31 2026] 127.0.0.1:58385 Accepted
+[Wed Apr  8 01:35:31 2026] 127.0.0.1:58385 [200]: GET /style.css
+[Wed Apr  8 01:35:31 2026] 127.0.0.1:60654 Accepted
+[Wed Apr  8 01:35:31 2026] 127.0.0.1:58385 Closing
+[Wed Apr  8 01:35:31 2026] 127.0.0.1:60654 [200]: GET /images/logo.png
+[Wed Apr  8 01:35:31 2026] 127.0.0.1:60654 Closing
+[Wed Apr  8 01:35:47 2026] 127.0.0.1:60008 Accepted
+[Wed Apr  8 01:35:47 2026] 127.0.0.1:53632 Accepted
+[Wed Apr  8 01:35:47 2026] 127.0.0.1:60008 [302]: POST /admin/login.php
+[Wed Apr  8 01:35:47 2026] 127.0.0.1:60008 Closing
+[Wed Apr  8 01:35:47 2026] 127.0.0.1:53632 [200]: GET /admin/dashboard.php
+[Wed Apr  8 01:35:47 2026] 127.0.0.1:53632 Closing
+[Wed Apr  8 01:35:48 2026] 127.0.0.1:57334 Accepted
+[Wed Apr  8 01:35:48 2026] 127.0.0.1:57334 [200]: GET /style.css
+[Wed Apr  8 01:35:48 2026] 127.0.0.1:62510 Accepted
+[Wed Apr  8 01:35:48 2026] 127.0.0.1:62510 [200]: GET /images/logo.png
+[Wed Apr  8 01:35:48 2026] 127.0.0.1:57334 Closing
+[Wed Apr  8 01:35:48 2026] 127.0.0.1:62510 Closing
+[Wed Apr  8 01:36:27 2026] 127.0.0.1:54268 Accepted
+[Wed Apr  8 01:36:28 2026] 127.0.0.1:54268 [200]: GET /contact.php
+[Wed Apr  8 01:36:28 2026] 127.0.0.1:54268 Closing
+[Wed Apr  8 01:36:28 2026] 127.0.0.1:51022 Accepted
+[Wed Apr  8 01:36:28 2026] 127.0.0.1:51022 [200]: GET /style.css
+[Wed Apr  8 01:36:28 2026] 127.0.0.1:55266 Accepted
+[Wed Apr  8 01:36:28 2026] 127.0.0.1:55266 [200]: GET /images/logo.png
+[Wed Apr  8 01:36:28 2026] 127.0.0.1:51022 Closing
+[Wed Apr  8 01:36:28 2026] 127.0.0.1:60210 Accepted
+[Wed Apr  8 01:36:28 2026] 127.0.0.1:58585 Accepted
+[Wed Apr  8 01:36:28 2026] 127.0.0.1:60210 [200]: GET /images/phone-call.png
+[Wed Apr  8 01:36:28 2026] 127.0.0.1:58585 [200]: GET /images/whatsapp.png
+[Wed Apr  8 01:36:28 2026] 127.0.0.1:55266 Closing
+[Wed Apr  8 01:36:28 2026] 127.0.0.1:60210 Closing
+[Wed Apr  8 01:36:28 2026] 127.0.0.1:58585 Closing
+[Wed Apr  8 01:36:39 2026] 127.0.0.1:64458 Accepted
+[Wed Apr  8 01:36:39 2026] 127.0.0.1:51464 Accepted
+[Wed Apr  8 01:36:39 2026] 127.0.0.1:64458 [200]: GET /index.php
+[Wed Apr  8 01:36:39 2026] 127.0.0.1:64458 Closing
+[Wed Apr  8 01:36:39 2026] 127.0.0.1:51464 [200]: GET /style.css
+[Wed Apr  8 01:36:39 2026] 127.0.0.1:63430 Accepted
+[Wed Apr  8 01:36:39 2026] 127.0.0.1:65491 Accepted
+[Wed Apr  8 01:36:39 2026] 127.0.0.1:60254 Accepted
+[Wed Apr  8 01:36:39 2026] 127.0.0.1:63430 [200]: GET /images/logo.png
+[Wed Apr  8 01:36:39 2026] 127.0.0.1:65491 [200]: GET /images/jerzygorecki-vegetables-1584999.jpg
+[Wed Apr  8 01:36:39 2026] 127.0.0.1:51464 Closing
+[Wed Apr  8 01:36:39 2026] 127.0.0.1:65104 Accepted
+[Wed Apr  8 01:36:39 2026] 127.0.0.1:60254 [200]: GET /images/hoaluu-pizza-2589575.jpg
+[Wed Apr  8 01:36:39 2026] 127.0.0.1:65104 [200]: GET /images/phamkhanhquynhtrang-smoothie-6760874.jpg
+[Wed Apr  8 01:36:39 2026] 127.0.0.1:63430 Closing
+[Wed Apr  8 01:36:39 2026] 127.0.0.1:60254 Closing
+[Wed Apr  8 01:36:39 2026] 127.0.0.1:65491 Closing
+[Wed Apr  8 01:36:39 2026] 127.0.0.1:65104 Closing
+[Wed Apr  8 01:39:01 2026] 127.0.0.1:62748 Accepted
+[Wed Apr  8 01:39:01 2026] 127.0.0.1:62748 [200]: GET /index.php
+[Wed Apr  8 01:39:01 2026] 127.0.0.1:62748 Closing
+[Wed Apr  8 01:39:01 2026] 127.0.0.1:62749 Accepted
+[Wed Apr  8 01:39:01 2026] 127.0.0.1:62749 [200]: GET /about.php
+[Wed Apr  8 01:39:01 2026] 127.0.0.1:62749 Closing
+[Wed Apr  8 01:39:01 2026] 127.0.0.1:62752 Accepted
+[Wed Apr  8 01:39:01 2026] 127.0.0.1:62752 [200]: GET /recipes.php
+[Wed Apr  8 01:39:01 2026] 127.0.0.1:62752 Closing
+[Wed Apr  8 01:41:57 2026] 127.0.0.1:63451 Accepted
+[Wed Apr  8 01:41:57 2026] 127.0.0.1:51990 Accepted
+[Wed Apr  8 01:41:57 2026] 127.0.0.1:63451 [200]: GET /index.php
+[Wed Apr  8 01:41:57 2026] 127.0.0.1:63451 Closing
+[Wed Apr  8 01:41:57 2026] 127.0.0.1:51990 [200]: GET /style.css
+[Wed Apr  8 01:41:57 2026] 127.0.0.1:61800 Accepted
+[Wed Apr  8 01:41:57 2026] 127.0.0.1:51990 Closing
+[Wed Apr  8 01:41:57 2026] 127.0.0.1:58525 Accepted
+[Wed Apr  8 01:41:57 2026] 127.0.0.1:60007 Accepted
+[Wed Apr  8 01:41:57 2026] 127.0.0.1:58916 Accepted
+[Wed Apr  8 01:41:57 2026] 127.0.0.1:61800 [200]: GET /images/logo.png
+[Wed Apr  8 01:41:57 2026] 127.0.0.1:58525 [200]: GET /images/jerzygorecki-vegetables-1584999.jpg
+[Wed Apr  8 01:41:57 2026] 127.0.0.1:60007 [200]: GET /images/hoaluu-pizza-2589575.jpg
+[Wed Apr  8 01:41:57 2026] 127.0.0.1:58916 [200]: GET /images/phamkhanhquynhtrang-smoothie-6760874.jpg
+[Wed Apr  8 01:41:57 2026] 127.0.0.1:61800 Closing
+[Wed Apr  8 01:41:57 2026] 127.0.0.1:60007 Closing
+[Wed Apr  8 01:41:57 2026] 127.0.0.1:58525 Closing
+[Wed Apr  8 01:41:57 2026] 127.0.0.1:58916 Closing
+[Wed Apr  8 01:42:14 2026] 127.0.0.1:63512 Accepted
+[Wed Apr  8 01:42:14 2026] 127.0.0.1:65106 Accepted
+[Wed Apr  8 01:42:14 2026] 127.0.0.1:63512 [200]: GET /index.php/admin
+[Wed Apr  8 01:42:14 2026] 127.0.0.1:63512 Closing
+[Wed Apr  8 01:42:14 2026] 127.0.0.1:65106 [200]: GET /index.php/style.css
+[Wed Apr  8 01:42:14 2026] 127.0.0.1:65106 Closing
+[Wed Apr  8 01:42:14 2026] 127.0.0.1:50944 Accepted
+[Wed Apr  8 01:42:14 2026] 127.0.0.1:52799 Accepted
+[Wed Apr  8 01:42:14 2026] 127.0.0.1:50944 [200]: GET /index.php/images/logo.png
+[Wed Apr  8 01:42:14 2026] 127.0.0.1:50944 Closing
+[Wed Apr  8 01:42:14 2026] 127.0.0.1:55399 Accepted
+[Wed Apr  8 01:42:14 2026] 127.0.0.1:52799 [200]: GET /index.php/images/jerzygorecki-vegetables-1584999.jpg
+[Wed Apr  8 01:42:14 2026] 127.0.0.1:52799 Closing
+[Wed Apr  8 01:42:14 2026] 127.0.0.1:60236 Accepted
+[Wed Apr  8 01:42:14 2026] 127.0.0.1:55399 [200]: GET /index.php/images/hoaluu-pizza-2589575.jpg
+[Wed Apr  8 01:42:14 2026] 127.0.0.1:55399 Closing
+[Wed Apr  8 01:42:14 2026] 127.0.0.1:60236 [200]: GET /index.php/images/phamkhanhquynhtrang-smoothie-6760874.jpg
+[Wed Apr  8 01:42:14 2026] 127.0.0.1:60236 Closing
+[Wed Apr  8 01:42:28 2026] 127.0.0.1:52492 Accepted
+[Wed Apr  8 01:42:28 2026] 127.0.0.1:52492 [200]: GET /index.php/admin
+[Wed Apr  8 01:42:28 2026] 127.0.0.1:52492 Closing
+[Wed Apr  8 01:42:28 2026] 127.0.0.1:63459 Accepted
+[Wed Apr  8 01:42:28 2026] 127.0.0.1:63459 [200]: GET /index.php/style.css
+[Wed Apr  8 01:42:28 2026] 127.0.0.1:63459 Closing
+[Wed Apr  8 01:42:28 2026] 127.0.0.1:55533 Accepted
+[Wed Apr  8 01:42:28 2026] 127.0.0.1:53774 Accepted
+[Wed Apr  8 01:42:28 2026] 127.0.0.1:55533 [200]: GET /index.php/images/logo.png
+[Wed Apr  8 01:42:28 2026] 127.0.0.1:55533 Closing
+[Wed Apr  8 01:42:28 2026] 127.0.0.1:49918 Accepted
+[Wed Apr  8 01:42:28 2026] 127.0.0.1:53774 [200]: GET /index.php/images/jerzygorecki-vegetables-1584999.jpg
+[Wed Apr  8 01:42:28 2026] 127.0.0.1:53774 Closing
+[Wed Apr  8 01:42:28 2026] 127.0.0.1:56447 Accepted
+[Wed Apr  8 01:42:28 2026] 127.0.0.1:49918 [200]: GET /index.php/images/hoaluu-pizza-2589575.jpg
+[Wed Apr  8 01:42:28 2026] 127.0.0.1:49918 Closing
+[Wed Apr  8 01:42:28 2026] 127.0.0.1:56447 [200]: GET /index.php/images/phamkhanhquynhtrang-smoothie-6760874.jpg
+[Wed Apr  8 01:42:28 2026] 127.0.0.1:56447 Closing
+[Wed Apr  8 01:45:03 2026] 127.0.0.1:53411 Accepted
+[Wed Apr  8 01:45:03 2026] 127.0.0.1:53411 [302]: GET /admin
+[Wed Apr  8 01:45:03 2026] 127.0.0.1:53411 Closing
+[Wed Apr  8 01:45:03 2026] 127.0.0.1:53413 Accepted
+[Wed Apr  8 01:45:04 2026] 127.0.0.1:53413 [302]: GET /admin/
+[Wed Apr  8 01:45:04 2026] 127.0.0.1:53413 Closing
+[Wed Apr  8 01:45:04 2026] 127.0.0.1:53827 Accepted
+[Wed Apr  8 01:45:04 2026] 127.0.0.1:53827 [404]: GET /login.php - No such file or directory
+[Wed Apr  8 01:45:04 2026] 127.0.0.1:53827 Closing
+[Wed Apr  8 01:45:04 2026] 127.0.0.1:53828 Accepted
+[Wed Apr  8 01:45:04 2026] 127.0.0.1:53828 [200]: GET /admin/login.php
+[Wed Apr  8 01:45:04 2026] 127.0.0.1:53828 Closing
+[Wed Apr  8 01:45:57 2026] 127.0.0.1:55512 Accepted
+[Wed Apr  8 01:45:57 2026] 127.0.0.1:55512 [200]: GET /admin/
+[Wed Apr  8 01:45:57 2026] 127.0.0.1:55512 Closing
+[Wed Apr  8 01:45:57 2026] 127.0.0.1:55514 Accepted
+[Wed Apr  8 01:45:57 2026] 127.0.0.1:55514 [302]: GET /admin/login.php
+[Wed Apr  8 01:45:57 2026] 127.0.0.1:55514 Closing
+[Wed Apr  8 01:45:57 2026] 127.0.0.1:55515 Accepted
+[Wed Apr  8 01:45:57 2026] 127.0.0.1:55515 [200]: GET /admin/
+[Wed Apr  8 01:45:57 2026] 127.0.0.1:55515 Closing
+[Wed Apr  8 01:46:01 2026] 127.0.0.1:59020 Accepted
+[Wed Apr  8 01:46:01 2026] 127.0.0.1:59020 [302]: POST /admin/
+[Wed Apr  8 01:46:01 2026] 127.0.0.1:59020 Closing
+[Wed Apr  8 01:46:02 2026] 127.0.0.1:59023 Accepted
+[Wed Apr  8 01:46:02 2026] 127.0.0.1:59023 [200]: GET /admin/dashboard.php
+[Wed Apr  8 01:46:02 2026] 127.0.0.1:59023 Closing
+[Wed Apr  8 01:46:51 2026] 127.0.0.1:64256 Accepted
+[Wed Apr  8 01:46:51 2026] 127.0.0.1:64256 [200]: GET /index.php/admin/
+[Wed Apr  8 01:46:51 2026] 127.0.0.1:64256 Closing
+[Wed Apr  8 01:46:51 2026] 127.0.0.1:54931 Accepted
+[Wed Apr  8 01:46:51 2026] 127.0.0.1:54931 [200]: GET /index.php/admin/style.css
+[Wed Apr  8 01:46:51 2026] 127.0.0.1:54931 Closing
+[Wed Apr  8 01:46:51 2026] 127.0.0.1:50720 Accepted
+[Wed Apr  8 01:46:51 2026] 127.0.0.1:62462 Accepted
+[Wed Apr  8 01:46:51 2026] 127.0.0.1:50720 [200]: GET /index.php/admin/images/logo.png
+[Wed Apr  8 01:46:51 2026] 127.0.0.1:50720 Closing
+[Wed Apr  8 01:46:51 2026] 127.0.0.1:62001 Accepted
+[Wed Apr  8 01:46:51 2026] 127.0.0.1:62462 [200]: GET /index.php/admin/images/jerzygorecki-vegetables-1584999.jpg
+[Wed Apr  8 01:46:51 2026] 127.0.0.1:62462 Closing
+[Wed Apr  8 01:46:51 2026] 127.0.0.1:60226 Accepted
+[Wed Apr  8 01:46:51 2026] 127.0.0.1:62001 [200]: GET /index.php/admin/images/hoaluu-pizza-2589575.jpg
+[Wed Apr  8 01:46:51 2026] 127.0.0.1:62001 Closing
+[Wed Apr  8 01:46:51 2026] 127.0.0.1:60226 [200]: GET /index.php/admin/images/phamkhanhquynhtrang-smoothie-6760874.jpg
+[Wed Apr  8 01:46:51 2026] 127.0.0.1:60226 Closing
+[Wed Apr  8 01:47:26 2026] 127.0.0.1:64811 Accepted
+[Wed Apr  8 01:47:26 2026] 127.0.0.1:64811 [302]: GET /admin/
+[Wed Apr  8 01:47:26 2026] 127.0.0.1:64811 Closing
+[Wed Apr  8 01:47:26 2026] 127.0.0.1:52058 Accepted
+[Wed Apr  8 01:47:26 2026] 127.0.0.1:52058 [200]: GET /admin/dashboard.php
+[Wed Apr  8 01:47:26 2026] 127.0.0.1:52058 Closing
+[Wed Apr  8 01:47:26 2026] 127.0.0.1:53304 Accepted
+[Wed Apr  8 01:47:26 2026] 127.0.0.1:53304 [200]: GET /style.css
+[Wed Apr  8 01:47:26 2026] 127.0.0.1:53304 Closing
+[Wed Apr  8 01:47:26 2026] 127.0.0.1:61038 Accepted
+[Wed Apr  8 01:47:26 2026] 127.0.0.1:61038 [200]: GET /images/logo.png
+[Wed Apr  8 01:47:26 2026] 127.0.0.1:61038 Closing
+[Wed Apr  8 01:47:52 2026] 127.0.0.1:57610 Accepted
+[Wed Apr  8 01:47:52 2026] 127.0.0.1:65502 Accepted
+[Wed Apr  8 01:47:52 2026] 127.0.0.1:57610 [200]: GET /index.php
+[Wed Apr  8 01:47:52 2026] 127.0.0.1:57610 Closing
+[Wed Apr  8 01:47:52 2026] 127.0.0.1:65502 [200]: GET /style.css
+[Wed Apr  8 01:47:52 2026] 127.0.0.1:58402 Accepted
+[Wed Apr  8 01:47:52 2026] 127.0.0.1:65502 Closing
+[Wed Apr  8 01:47:52 2026] 127.0.0.1:49822 Accepted
+[Wed Apr  8 01:47:52 2026] 127.0.0.1:58402 [200]: GET /images/logo.png
+[Wed Apr  8 01:47:52 2026] 127.0.0.1:49822 [200]: GET /images/jerzygorecki-vegetables-1584999.jpg
+[Wed Apr  8 01:47:52 2026] 127.0.0.1:62667 Accepted
+[Wed Apr  8 01:47:52 2026] 127.0.0.1:58402 Closing
+[Wed Apr  8 01:47:52 2026] 127.0.0.1:54100 Accepted
+[Wed Apr  8 01:47:52 2026] 127.0.0.1:62667 [200]: GET /images/hoaluu-pizza-2589575.jpg
+[Wed Apr  8 01:47:52 2026] 127.0.0.1:54100 [200]: GET /images/phamkhanhquynhtrang-smoothie-6760874.jpg
+[Wed Apr  8 01:47:52 2026] 127.0.0.1:62667 Closing
+[Wed Apr  8 01:47:52 2026] 127.0.0.1:49822 Closing
+[Wed Apr  8 01:47:52 2026] 127.0.0.1:54100 Closing
+[Wed Apr  8 01:49:26 2026] 127.0.0.1:59617 Accepted
+[Wed Apr  8 01:49:26 2026] 127.0.0.1:58309 Accepted
+[Wed Apr  8 01:49:26 2026] 127.0.0.1:59617 [302]: GET /admin/
+[Wed Apr  8 01:49:26 2026] 127.0.0.1:59617 Closing
+[Wed Apr  8 01:49:26 2026] 127.0.0.1:58309 [200]: GET /admin/dashboard.php
+[Wed Apr  8 01:49:26 2026] 127.0.0.1:58309 Closing
+[Wed Apr  8 01:49:26 2026] 127.0.0.1:60198 Accepted
+[Wed Apr  8 01:49:26 2026] 127.0.0.1:60198 [200]: GET /style.css
+[Wed Apr  8 01:49:26 2026] 127.0.0.1:58670 Accepted
+[Wed Apr  8 01:49:26 2026] 127.0.0.1:58670 [200]: GET /images/logo.png
+[Wed Apr  8 01:49:26 2026] 127.0.0.1:60198 Closing
+[Wed Apr  8 01:49:26 2026] 127.0.0.1:58670 Closing
+[Wed Apr  8 01:49:33 2026] 127.0.0.1:53700 Accepted
+[Wed Apr  8 01:49:33 2026] 127.0.0.1:49932 Accepted
+[Wed Apr  8 01:49:33 2026] 127.0.0.1:53700 [302]: GET /admin/logout.php
+[Wed Apr  8 01:49:33 2026] 127.0.0.1:53700 Closing
+[Wed Apr  8 01:49:33 2026] 127.0.0.1:49932 [200]: GET /admin/
+[Wed Apr  8 01:49:33 2026] 127.0.0.1:49932 Closing
+[Wed Apr  8 01:49:33 2026] 127.0.0.1:61920 Accepted
+[Wed Apr  8 01:49:33 2026] 127.0.0.1:61920 [200]: GET /style.css
+[Wed Apr  8 01:49:33 2026] 127.0.0.1:61920 Closing
+[Wed Apr  8 01:49:33 2026] 127.0.0.1:54896 Accepted
+[Wed Apr  8 01:49:33 2026] 127.0.0.1:54896 [200]: GET /images/logo.png
+[Wed Apr  8 01:49:33 2026] 127.0.0.1:54896 Closing
+[Wed Apr  8 01:49:52 2026] 127.0.0.1:59454 Accepted
+[Wed Apr  8 01:49:52 2026] 127.0.0.1:59454 [302]: POST /admin/index.php
+[Wed Apr  8 01:49:52 2026] 127.0.0.1:59454 Closing
+[Wed Apr  8 01:49:52 2026] 127.0.0.1:59348 Accepted
+[Wed Apr  8 01:49:52 2026] 127.0.0.1:59348 [200]: GET /admin/dashboard.php
+[Wed Apr  8 01:49:52 2026] 127.0.0.1:59348 Closing
+[Wed Apr  8 01:49:52 2026] 127.0.0.1:64688 Accepted
+[Wed Apr  8 01:49:52 2026] 127.0.0.1:64688 [200]: GET /style.css
+[Wed Apr  8 01:49:52 2026] 127.0.0.1:54734 Accepted
+[Wed Apr  8 01:49:52 2026] 127.0.0.1:64688 Closing
+[Wed Apr  8 01:49:52 2026] 127.0.0.1:54734 [200]: GET /images/logo.png
+[Wed Apr  8 01:49:52 2026] 127.0.0.1:54734 Closing
+[Wed Apr  8 01:50:04 2026] 127.0.0.1:55086 Accepted
+[Wed Apr  8 01:50:04 2026] 127.0.0.1:56440 Accepted
+[Wed Apr  8 01:50:04 2026] 127.0.0.1:55086 [200]: GET /recipes.php
+[Wed Apr  8 01:50:04 2026] 127.0.0.1:55086 Closing
+[Wed Apr  8 01:50:04 2026] 127.0.0.1:56440 [200]: GET /style.css
+[Wed Apr  8 01:50:04 2026] 127.0.0.1:56440 Closing
+[Wed Apr  8 01:50:04 2026] 127.0.0.1:57388 Accepted
+[Wed Apr  8 01:50:04 2026] 127.0.0.1:56802 Accepted
+[Wed Apr  8 01:50:04 2026] 127.0.0.1:51879 Accepted
+[Wed Apr  8 01:50:04 2026] 127.0.0.1:59227 Accepted
+[Wed Apr  8 01:50:04 2026] 127.0.0.1:52258 Accepted
+[Wed Apr  8 01:50:04 2026] 127.0.0.1:57388 [200]: GET /images/logo.png
+[Wed Apr  8 01:50:04 2026] 127.0.0.1:56802 [200]: GET /images/lukasbieri-mediterranean-cuisine-2378758.jpg
+[Wed Apr  8 01:50:04 2026] 127.0.0.1:51879 [200]: GET /images/jerzygorecki-vegetables-1584999.jpg
+[Wed Apr  8 01:50:04 2026] 127.0.0.1:59227 [200]: GET /images/cegoh-cupcakes-1133146.jpg
+[Wed Apr  8 01:50:04 2026] 127.0.0.1:52258 [200]: GET /images/hoaluu-pizza-2589575.jpg
+[Wed Apr  8 01:50:04 2026] 127.0.0.1:58397 Accepted
+[Wed Apr  8 01:50:04 2026] 127.0.0.1:58397 [200]: GET /images/phamkhanhquynhtrang-smoothie-6760874.jpg
+[Wed Apr  8 01:50:04 2026] 127.0.0.1:57388 Closing
+[Wed Apr  8 01:50:04 2026] 127.0.0.1:52258 Closing
+[Wed Apr  8 01:50:04 2026] 127.0.0.1:51879 Closing
+[Wed Apr  8 01:50:04 2026] 127.0.0.1:58397 Closing
+[Wed Apr  8 01:50:04 2026] 127.0.0.1:59227 Closing
+[Wed Apr  8 01:50:04 2026] 127.0.0.1:56802 Closing
+[Wed Apr  8 01:50:46 2026] 127.0.0.1:53940 Accepted
+[Wed Apr  8 01:50:46 2026] 127.0.0.1:51983 Accepted
+[Wed Apr  8 01:50:46 2026] 127.0.0.1:53940 [200]: GET /index.php
+[Wed Apr  8 01:50:46 2026] 127.0.0.1:53940 Closing
+[Wed Apr  8 01:50:46 2026] 127.0.0.1:51983 [200]: GET /style.css
+[Wed Apr  8 01:50:46 2026] 127.0.0.1:51927 Accepted
+[Wed Apr  8 01:50:46 2026] 127.0.0.1:51983 Closing
+[Wed Apr  8 01:50:46 2026] 127.0.0.1:54909 Accepted
+[Wed Apr  8 01:50:46 2026] 127.0.0.1:57417 Accepted
+[Wed Apr  8 01:50:46 2026] 127.0.0.1:51247 Accepted
+[Wed Apr  8 01:50:46 2026] 127.0.0.1:51927 [200]: GET /images/logo.png
+[Wed Apr  8 01:50:46 2026] 127.0.0.1:54909 [200]: GET /images/jerzygorecki-vegetables-1584999.jpg
+[Wed Apr  8 01:50:46 2026] 127.0.0.1:57417 [200]: GET /images/hoaluu-pizza-2589575.jpg
+[Wed Apr  8 01:50:46 2026] 127.0.0.1:51247 [200]: GET /images/phamkhanhquynhtrang-smoothie-6760874.jpg
+[Wed Apr  8 01:50:46 2026] 127.0.0.1:51927 Closing
+[Wed Apr  8 01:50:46 2026] 127.0.0.1:57417 Closing
+[Wed Apr  8 01:50:46 2026] 127.0.0.1:54909 Closing
+[Wed Apr  8 01:50:46 2026] 127.0.0.1:51247 Closing
+[Wed Apr  8 01:53:51 2026] 127.0.0.1:64399 Accepted
+[Wed Apr  8 01:53:51 2026] 127.0.0.1:64399 [200]: GET /index.php
+[Wed Apr  8 01:53:51 2026] 127.0.0.1:64399 Closing
+[Wed Apr  8 01:53:51 2026] 127.0.0.1:57516 Accepted
+[Wed Apr  8 01:53:51 2026] 127.0.0.1:57516 [200]: GET /style.css
+[Wed Apr  8 01:53:51 2026] 127.0.0.1:65526 Accepted
+[Wed Apr  8 01:53:51 2026] 127.0.0.1:65526 [200]: GET /images/logo.png
+[Wed Apr  8 01:53:51 2026] 127.0.0.1:57406 Accepted
+[Wed Apr  8 01:53:51 2026] 127.0.0.1:57516 Closing
+[Wed Apr  8 01:53:51 2026] 127.0.0.1:61238 Accepted
+[Wed Apr  8 01:53:51 2026] 127.0.0.1:57406 [200]: GET /images/jerzygorecki-vegetables-1584999.jpg
+[Wed Apr  8 01:53:51 2026] 127.0.0.1:50193 Accepted
+[Wed Apr  8 01:53:51 2026] 127.0.0.1:61238 [200]: GET /images/hoaluu-pizza-2589575.jpg
+[Wed Apr  8 01:53:51 2026] 127.0.0.1:65526 Closing
+[Wed Apr  8 01:53:51 2026] 127.0.0.1:50193 [200]: GET /images/phamkhanhquynhtrang-smoothie-6760874.jpg
+[Wed Apr  8 01:53:51 2026] 127.0.0.1:57406 Closing
+[Wed Apr  8 01:53:51 2026] 127.0.0.1:61238 Closing
+[Wed Apr  8 01:53:51 2026] 127.0.0.1:50193 Closing
+[Wed Apr  8 01:55:25 2026] 127.0.0.1:60307 Accepted
+[Wed Apr  8 01:55:25 2026] 127.0.0.1:64021 Accepted
+[Wed Apr  8 01:55:25 2026] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'gallery_images' in 'field list' in C:\Users\lolli\OneDrive\Desktop\Sahani Sita\config.php:85
+Stack trace:
+#0 C:\Users\lolli\OneDrive\Desktop\Sahani Sita\config.php(85): mysqli->query('SELECT id, titl...')
+#1 C:\Users\lolli\OneDrive\Desktop\Sahani Sita\recipes.php(4): fetch_recipes(Object(mysqli))
+#2 {main}
+  thrown in C:\Users\lolli\OneDrive\Desktop\Sahani Sita\config.php on line 85
+[Wed Apr  8 01:55:25 2026] 127.0.0.1:60307 [200]: GET /recipes.php - Uncaught mysqli_sql_exception: Unknown column 'gallery_images' in 'field list' in C:\Users\lolli\OneDrive\Desktop\Sahani Sita\config.php:85
+Stack trace:
+#0 C:\Users\lolli\OneDrive\Desktop\Sahani Sita\config.php(85): mysqli->query('SELECT id, titl...')
+#1 C:\Users\lolli\OneDrive\Desktop\Sahani Sita\recipes.php(4): fetch_recipes(Object(mysqli))
+#2 {main}
+  thrown in C:\Users\lolli\OneDrive\Desktop\Sahani Sita\config.php on line 85
+[Wed Apr  8 01:55:25 2026] 127.0.0.1:60307 Closing
+[Wed Apr  8 01:55:35 2026] 127.0.0.1:51879 Accepted
+[Wed Apr  8 01:55:35 2026] 127.0.0.1:64021 [200]: GET /index.php
+[Wed Apr  8 01:55:35 2026] 127.0.0.1:64021 Closing
+[Wed Apr  8 01:55:35 2026] 127.0.0.1:51879 [200]: GET /style.css
+[Wed Apr  8 01:55:35 2026] 127.0.0.1:51879 Closing
+[Wed Apr  8 01:55:35 2026] 127.0.0.1:56190 Accepted
+[Wed Apr  8 01:55:35 2026] 127.0.0.1:63216 Accepted
+[Wed Apr  8 01:55:35 2026] 127.0.0.1:56190 [200]: GET /images/logo.png
+[Wed Apr  8 01:55:35 2026] 127.0.0.1:53938 Accepted
+[Wed Apr  8 01:55:35 2026] 127.0.0.1:63216 [200]: GET /images/jerzygorecki-vegetables-1584999.jpg
+[Wed Apr  8 01:55:35 2026] 127.0.0.1:61636 Accepted
+[Wed Apr  8 01:55:35 2026] 127.0.0.1:53938 [200]: GET /images/hoaluu-pizza-2589575.jpg
+[Wed Apr  8 01:55:35 2026] 127.0.0.1:61636 [200]: GET /images/phamkhanhquynhtrang-smoothie-6760874.jpg
+[Wed Apr  8 01:55:35 2026] 127.0.0.1:56190 Closing
+[Wed Apr  8 01:55:35 2026] 127.0.0.1:63216 Closing
+[Wed Apr  8 01:55:35 2026] 127.0.0.1:53938 Closing
+[Wed Apr  8 01:55:35 2026] 127.0.0.1:61636 Closing
+[Wed Apr  8 01:55:36 2026] 127.0.0.1:61637 Accepted
+[Wed Apr  8 01:55:36 2026] 127.0.0.1:61637 [200]: GET /recipe-detail.php?id=2
+[Wed Apr  8 01:55:36 2026] 127.0.0.1:61637 Closing
+[Wed Apr  8 01:55:37 2026] 127.0.0.1:49768 Accepted
+[Wed Apr  8 01:55:37 2026] 127.0.0.1:49769 Accepted
+[Wed Apr  8 01:55:37 2026] 127.0.0.1:49769 [302]: POST /admin/
+[Wed Apr  8 01:55:37 2026] 127.0.0.1:49769 Closing
+[Wed Apr  8 01:55:37 2026] 127.0.0.1:49771 Accepted
+[Wed Apr  8 01:55:37 2026] 127.0.0.1:49771 [200]: GET /admin/dashboard.php?edit=2
+[Wed Apr  8 01:55:37 2026] 127.0.0.1:49771 Closing
+[Wed Apr  8 01:55:37 2026] 127.0.0.1:52976 Accepted
+[Wed Apr  8 01:55:37 2026] 127.0.0.1:49768 [200]: GET /about.php
+[Wed Apr  8 01:55:37 2026] 127.0.0.1:49768 Closing
+[Wed Apr  8 01:55:37 2026] 127.0.0.1:52976 [200]: GET /style.css
+[Wed Apr  8 01:55:37 2026] 127.0.0.1:52976 Closing
+[Wed Apr  8 01:55:37 2026] 127.0.0.1:64958 Accepted
+[Wed Apr  8 01:55:37 2026] 127.0.0.1:64958 [200]: GET /images/logo.png
+[Wed Apr  8 01:55:37 2026] 127.0.0.1:64958 Closing
+[Wed Apr  8 01:55:38 2026] 127.0.0.1:55362 Accepted
+[Wed Apr  8 01:55:38 2026] 127.0.0.1:51300 Accepted
+[Wed Apr  8 01:55:38 2026] 127.0.0.1:55362 [200]: GET /contact.php
+[Wed Apr  8 01:55:38 2026] 127.0.0.1:55362 Closing
+[Wed Apr  8 01:55:38 2026] 127.0.0.1:51300 [200]: GET /style.css
+[Wed Apr  8 01:55:38 2026] 127.0.0.1:55096 Accepted
+[Wed Apr  8 01:55:38 2026] 127.0.0.1:55096 [200]: GET /images/logo.png
+[Wed Apr  8 01:55:38 2026] 127.0.0.1:51300 Closing
+[Wed Apr  8 01:55:38 2026] 127.0.0.1:55096 Closing
+[Wed Apr  8 01:55:38 2026] 127.0.0.1:52700 Accepted
+[Wed Apr  8 01:55:38 2026] 127.0.0.1:63871 Accepted
+[Wed Apr  8 01:55:38 2026] 127.0.0.1:52700 [200]: GET /images/phone-call.png
+[Wed Apr  8 01:55:38 2026] 127.0.0.1:63871 [200]: GET /images/whatsapp.png
+[Wed Apr  8 01:55:38 2026] 127.0.0.1:52700 Closing
+[Wed Apr  8 01:55:38 2026] 127.0.0.1:63871 Closing
+[Wed Apr  8 01:55:39 2026] 127.0.0.1:58010 Accepted
+[Wed Apr  8 01:55:39 2026] 127.0.0.1:62015 Accepted
+[Wed Apr  8 01:55:39 2026] 127.0.0.1:58010 [200]: GET /recipes.php
+[Wed Apr  8 01:55:39 2026] 127.0.0.1:58010 Closing
+[Wed Apr  8 01:55:39 2026] 127.0.0.1:62015 [200]: GET /style.css
+[Wed Apr  8 01:55:39 2026] 127.0.0.1:63267 Accepted
+[Wed Apr  8 01:55:39 2026] 127.0.0.1:59626 Accepted
+[Wed Apr  8 01:55:39 2026] 127.0.0.1:62015 Closing
+[Wed Apr  8 01:55:39 2026] 127.0.0.1:63267 [200]: GET /images/logo.png
+[Wed Apr  8 01:55:39 2026] 127.0.0.1:59626 [200]: GET /images/lukasbieri-mediterranean-cuisine-2378758.jpg
+[Wed Apr  8 01:55:39 2026] 127.0.0.1:65417 Accepted
+[Wed Apr  8 01:55:39 2026] 127.0.0.1:50630 Accepted
+[Wed Apr  8 01:55:39 2026] 127.0.0.1:55660 Accepted
+[Wed Apr  8 01:55:39 2026] 127.0.0.1:65417 [200]: GET /images/jerzygorecki-vegetables-1584999.jpg
+[Wed Apr  8 01:55:39 2026] 127.0.0.1:50630 [200]: GET /images/cegoh-cupcakes-1133146.jpg
+[Wed Apr  8 01:55:39 2026] 127.0.0.1:63267 Closing
+[Wed Apr  8 01:55:39 2026] 127.0.0.1:55660 [200]: GET /images/hoaluu-pizza-2589575.jpg
+[Wed Apr  8 01:55:39 2026] 127.0.0.1:60177 Accepted
+[Wed Apr  8 01:55:39 2026] 127.0.0.1:60177 [200]: GET /images/phamkhanhquynhtrang-smoothie-6760874.jpg
+[Wed Apr  8 01:55:39 2026] 127.0.0.1:55660 Closing
+[Wed Apr  8 01:55:39 2026] 127.0.0.1:60177 Closing
+[Wed Apr  8 01:55:39 2026] 127.0.0.1:65417 Closing
+[Wed Apr  8 01:55:39 2026] 127.0.0.1:50630 Closing
+[Wed Apr  8 01:55:39 2026] 127.0.0.1:59626 Closing
+[Wed Apr  8 01:56:37 2026] 127.0.0.1:54339 Accepted
+[Wed Apr  8 01:56:37 2026] 127.0.0.1:54339 [200]: GET /about.php
+[Wed Apr  8 01:56:37 2026] 127.0.0.1:54339 Closing
+[Wed Apr  8 01:56:37 2026] 127.0.0.1:50487 Accepted
+[Wed Apr  8 01:56:37 2026] 127.0.0.1:50487 [200]: GET /style.css
+[Wed Apr  8 01:56:37 2026] 127.0.0.1:50487 Closing
+[Wed Apr  8 01:56:37 2026] 127.0.0.1:60790 Accepted
+[Wed Apr  8 01:56:37 2026] 127.0.0.1:60790 [200]: GET /images/logo.png
+[Wed Apr  8 01:56:37 2026] 127.0.0.1:60790 Closing
+[Wed Apr  8 01:56:41 2026] 127.0.0.1:60634 Accepted
+[Wed Apr  8 01:56:41 2026] 127.0.0.1:58689 Accepted
+[Wed Apr  8 01:56:41 2026] 127.0.0.1:60634 [200]: GET /contact.php
+[Wed Apr  8 01:56:41 2026] 127.0.0.1:60634 Closing
+[Wed Apr  8 01:56:41 2026] 127.0.0.1:58689 [200]: GET /style.css
+[Wed Apr  8 01:56:41 2026] 127.0.0.1:58689 Closing
+[Wed Apr  8 01:56:41 2026] 127.0.0.1:58012 Accepted
+[Wed Apr  8 01:56:41 2026] 127.0.0.1:49823 Accepted
+[Wed Apr  8 01:56:41 2026] 127.0.0.1:58012 [200]: GET /images/logo.png
+[Wed Apr  8 01:56:41 2026] 127.0.0.1:49823 [200]: GET /images/phone-call.png
+[Wed Apr  8 01:56:41 2026] 127.0.0.1:60705 Accepted
+[Wed Apr  8 01:56:41 2026] 127.0.0.1:60705 [200]: GET /images/whatsapp.png
+[Wed Apr  8 01:56:41 2026] 127.0.0.1:58012 Closing
+[Wed Apr  8 01:56:41 2026] 127.0.0.1:49823 Closing
+[Wed Apr  8 01:56:41 2026] 127.0.0.1:60705 Closing
+[Wed Apr  8 01:59:58 2026] 127.0.0.1:60046 Accepted
+[Wed Apr  8 01:59:58 2026] 127.0.0.1:56195 Accepted
+[Wed Apr  8 01:59:58 2026] 127.0.0.1:60046 [200]: GET /index.php
+[Wed Apr  8 01:59:58 2026] 127.0.0.1:60046 Closing
+[Wed Apr  8 01:59:59 2026] 127.0.0.1:56195 [200]: GET /style.css
+[Wed Apr  8 01:59:59 2026] 127.0.0.1:59701 Accepted
+[Wed Apr  8 01:59:59 2026] 127.0.0.1:56195 Closing
+[Wed Apr  8 01:59:59 2026] 127.0.0.1:64522 Accepted
+[Wed Apr  8 01:59:59 2026] 127.0.0.1:59701 [200]: GET /images/logo.png
+[Wed Apr  8 01:59:59 2026] 127.0.0.1:57991 Accepted
+[Wed Apr  8 01:59:59 2026] 127.0.0.1:62012 Accepted
+[Wed Apr  8 01:59:59 2026] 127.0.0.1:59701 Closing
+[Wed Apr  8 01:59:59 2026] 127.0.0.1:64522 [200]: GET /images/jerzygorecki-vegetables-1584999.jpg
+[Wed Apr  8 01:59:59 2026] 127.0.0.1:57991 [200]: GET /images/hoaluu-pizza-2589575.jpg
+[Wed Apr  8 01:59:59 2026] 127.0.0.1:62012 [200]: GET /images/phamkhanhquynhtrang-smoothie-6760874.jpg
+[Wed Apr  8 01:59:59 2026] 127.0.0.1:64522 Closing
+[Wed Apr  8 01:59:59 2026] 127.0.0.1:62012 Closing
+[Wed Apr  8 01:59:59 2026] 127.0.0.1:57991 Closing
+[Wed Apr  8 02:00:15 2026] 127.0.0.1:58184 Accepted
+[Wed Apr  8 02:00:15 2026] 127.0.0.1:56320 Accepted
+[Wed Apr  8 02:00:15 2026] 127.0.0.1:58184 [200]: GET /index.php
+[Wed Apr  8 02:00:15 2026] 127.0.0.1:58184 Closing
+[Wed Apr  8 02:00:15 2026] 127.0.0.1:56320 [200]: GET /style.css
+[Wed Apr  8 02:00:15 2026] 127.0.0.1:59698 Accepted
+[Wed Apr  8 02:00:15 2026] 127.0.0.1:56320 Closing
+[Wed Apr  8 02:00:15 2026] 127.0.0.1:63252 Accepted
+[Wed Apr  8 02:00:15 2026] 127.0.0.1:64964 Accepted
+[Wed Apr  8 02:00:15 2026] 127.0.0.1:57535 Accepted
+[Wed Apr  8 02:00:15 2026] 127.0.0.1:59698 [200]: GET /images/logo.png
+[Wed Apr  8 02:00:15 2026] 127.0.0.1:63252 [200]: GET /images/jerzygorecki-vegetables-1584999.jpg
+[Wed Apr  8 02:00:15 2026] 127.0.0.1:64964 [200]: GET /images/hoaluu-pizza-2589575.jpg
+[Wed Apr  8 02:00:15 2026] 127.0.0.1:57535 [200]: GET /images/phamkhanhquynhtrang-smoothie-6760874.jpg
+[Wed Apr  8 02:00:15 2026] 127.0.0.1:59698 Closing
+[Wed Apr  8 02:00:15 2026] 127.0.0.1:64964 Closing
+[Wed Apr  8 02:00:15 2026] 127.0.0.1:63252 Closing
+[Wed Apr  8 02:00:15 2026] 127.0.0.1:57535 Closing
+[Wed Apr  8 02:00:39 2026] 127.0.0.1:55743 Accepted
+[Wed Apr  8 02:00:39 2026] 127.0.0.1:54553 Accepted
+[Wed Apr  8 02:00:39 2026] 127.0.0.1:55743 [302]: GET /admin/
+[Wed Apr  8 02:00:39 2026] 127.0.0.1:55743 Closing
+[Wed Apr  8 02:00:39 2026] 127.0.0.1:54553 [200]: GET /admin/dashboard.php
+[Wed Apr  8 02:00:39 2026] 127.0.0.1:54553 Closing
+[Wed Apr  8 02:00:39 2026] 127.0.0.1:54773 Accepted
+[Wed Apr  8 02:00:39 2026] 127.0.0.1:54773 [200]: GET /style.css
+[Wed Apr  8 02:00:39 2026] 127.0.0.1:54773 Closing
+[Wed Apr  8 02:00:39 2026] 127.0.0.1:64426 Accepted
+[Wed Apr  8 02:00:39 2026] 127.0.0.1:64426 [200]: GET /images/logo.png
+[Wed Apr  8 02:00:39 2026] 127.0.0.1:64426 Closing
+[Wed Apr  8 02:06:56 2026] 127.0.0.1:57733 Accepted
+[Wed Apr  8 02:06:56 2026] 127.0.0.1:57733 [302]: POST /admin/
+[Wed Apr  8 02:06:56 2026] 127.0.0.1:57733 Closing
+[Wed Apr  8 02:06:56 2026] 127.0.0.1:57735 Accepted
+[Wed Apr  8 02:06:56 2026] 127.0.0.1:57735 [200]: GET /admin/dashboard.php?edit=2
+[Wed Apr  8 02:06:56 2026] 127.0.0.1:57735 Closing
+[Wed Apr  8 02:07:00 2026] 127.0.0.1:57740 Accepted
+[Wed Apr  8 02:07:00 2026] 127.0.0.1:57740 [200]: GET /admin/dashboard.php?edit=2
+[Wed Apr  8 02:07:00 2026] 127.0.0.1:57740 Closing
+[Wed Apr  8 02:07:28 2026] 127.0.0.1:57378 Accepted
+[Wed Apr  8 02:07:28 2026] 127.0.0.1:56441 Accepted
+[Wed Apr  8 02:07:28 2026] 127.0.0.1:57378 [200]: GET /admin/dashboard.php
+[Wed Apr  8 02:07:28 2026] 127.0.0.1:57378 Closing
+[Wed Apr  8 02:07:28 2026] 127.0.0.1:56441 [200]: GET /style.css
+[Wed Apr  8 02:07:28 2026] 127.0.0.1:52438 Accepted
+[Wed Apr  8 02:07:28 2026] 127.0.0.1:56441 Closing
+[Wed Apr  8 02:07:28 2026] 127.0.0.1:52438 [200]: GET /images/logo.png
+[Wed Apr  8 02:07:28 2026] 127.0.0.1:52438 Closing
+[Wed Apr  8 02:10:58 2026] 127.0.0.1:64870 Accepted
+[Wed Apr  8 02:10:58 2026] 127.0.0.1:54578 Accepted
+[Wed Apr  8 02:10:58 2026] 127.0.0.1:64870 [200]: GET /admin/dashboard.php?edit=5
+[Wed Apr  8 02:10:58 2026] 127.0.0.1:64870 Closing
+[Wed Apr  8 02:10:58 2026] 127.0.0.1:54578 [200]: GET /style.css
+[Wed Apr  8 02:10:58 2026] 127.0.0.1:54578 Closing
+[Wed Apr  8 02:10:58 2026] 127.0.0.1:65362 Accepted
+[Wed Apr  8 02:10:58 2026] 127.0.0.1:65362 [200]: GET /images/logo.png
+[Wed Apr  8 02:10:58 2026] 127.0.0.1:65362 Closing
+[Wed Apr  8 02:12:49 2026] 127.0.0.1:63981 Accepted
+[Wed Apr  8 02:12:49 2026] 127.0.0.1:56031 Accepted
+[Wed Apr  8 02:12:49 2026] 127.0.0.1:63981 [200]: GET /admin/dashboard.php?edit=5
+[Wed Apr  8 02:12:49 2026] 127.0.0.1:63981 Closing
+[Wed Apr  8 02:12:49 2026] 127.0.0.1:56031 [200]: GET /style.css
+[Wed Apr  8 02:12:49 2026] 127.0.0.1:56031 Closing
+[Wed Apr  8 02:12:49 2026] 127.0.0.1:57668 Accepted
+[Wed Apr  8 02:12:49 2026] 127.0.0.1:57668 [200]: GET /images/logo.png
+[Wed Apr  8 02:12:49 2026] 127.0.0.1:57668 Closing
+[Wed Apr  8 02:13:43 2026] 127.0.0.1:53235 Accepted
+[Wed Apr  8 02:13:43 2026] 127.0.0.1:53235 [200]: GET /admin/dashboard.php?edit=2
+[Wed Apr  8 02:13:43 2026] 127.0.0.1:53235 Closing
+[Wed Apr  8 02:14:33 2026] 127.0.0.1:61225 Accepted
+[Wed Apr  8 02:14:33 2026] 127.0.0.1:59552 Accepted
+[Wed Apr  8 02:14:33 2026] 127.0.0.1:61225 [200]: GET /admin/dashboard.php?edit=5
+[Wed Apr  8 02:14:33 2026] 127.0.0.1:61225 Closing
+[Wed Apr  8 02:14:33 2026] 127.0.0.1:59552 [200]: GET /style.css
+[Wed Apr  8 02:14:33 2026] 127.0.0.1:61280 Accepted
+[Wed Apr  8 02:14:33 2026] 127.0.0.1:61280 [200]: GET /images/logo.png
+[Wed Apr  8 02:14:33 2026] 127.0.0.1:49263 Accepted
+[Wed Apr  8 02:14:33 2026] 127.0.0.1:59552 Closing
+[Wed Apr  8 02:14:33 2026] 127.0.0.1:49263 [200]: GET /images/lukasbieri-mediterranean-cuisine-2378758.jpg
+[Wed Apr  8 02:14:33 2026] 127.0.0.1:61280 Closing
+[Wed Apr  8 02:14:33 2026] 127.0.0.1:49263 Closing
+[Wed Apr  8 02:14:47 2026] 127.0.0.1:49842 Accepted
+[Wed Apr  8 02:14:47 2026] 127.0.0.1:59305 Accepted
+[Wed Apr  8 02:14:47 2026] 127.0.0.1:49842 [200]: GET /admin/dashboard.php
+[Wed Apr  8 02:14:47 2026] 127.0.0.1:49842 Closing
+[Wed Apr  8 02:14:47 2026] 127.0.0.1:59305 [200]: GET /style.css
+[Wed Apr  8 02:14:47 2026] 127.0.0.1:59305 Closing
+[Wed Apr  8 02:14:47 2026] 127.0.0.1:52969 Accepted
+[Wed Apr  8 02:14:47 2026] 127.0.0.1:52969 [200]: GET /images/logo.png
+[Wed Apr  8 02:14:47 2026] 127.0.0.1:52969 Closing
+[Wed Apr  8 02:16:27 2026] 127.0.0.1:54995 Accepted
+[Wed Apr  8 02:16:27 2026] 127.0.0.1:52940 Accepted
+[Wed Apr  8 02:17:48 2026] 127.0.0.1:58788 Accepted
+[Wed Apr  8 02:17:48 2026] 127.0.0.1:52940 Closed without sending a request; it was probably just an unused speculative preconnection
+[Wed Apr  8 02:17:48 2026] 127.0.0.1:52940 Closing
+[Wed Apr  8 02:17:48 2026] 127.0.0.1:52053 Accepted
+[Wed Apr  8 02:17:49 2026] 127.0.0.1:54995 Invalid request (Unexpected EOF)
+[Wed Apr  8 02:17:49 2026] 127.0.0.1:54995 Closing
+[Wed Apr  8 02:18:58 2026] 127.0.0.1:65023 Accepted
+[Wed Apr  8 02:18:58 2026] 127.0.0.1:52053 Closed without sending a request; it was probably just an unused speculative preconnection
+[Wed Apr  8 02:18:58 2026] 127.0.0.1:52053 Closing
+[Wed Apr  8 02:18:58 2026] 127.0.0.1:58140 Accepted
+[Wed Apr  8 02:19:01 2026] 127.0.0.1:58788 Invalid request (Unexpected EOF)
+[Wed Apr  8 02:19:01 2026] 127.0.0.1:58788 Closing
+[Wed Apr  8 02:20:59 2026] 127.0.0.1:58140 Closed without sending a request; it was probably just an unused speculative preconnection
+[Wed Apr  8 02:20:59 2026] 127.0.0.1:58140 Closing
+[Wed Apr  8 02:20:59 2026] 127.0.0.1:61299 Accepted
+[Wed Apr  8 02:20:59 2026] 127.0.0.1:59299 Accepted
+[Wed Apr  8 02:20:59 2026] PHP Fatal error:  Cannot redeclare media_upload_directory() (previously declared in C:\Users\lolli\OneDrive\Desktop\Sahani Sita\config.php:69) in C:\Users\lolli\OneDrive\Desktop\Sahani Sita\config.php on line 176
+[Wed Apr  8 02:20:59 2026] 127.0.0.1:61299 [200]: GET /contact.php - Cannot redeclare media_upload_directory() (previously declared in C:\Users\lolli\OneDrive\Desktop\Sahani Sita\config.php:69) in C:\Users\lolli\OneDrive\Desktop\Sahani Sita\config.php on line 176
+[Wed Apr  8 02:20:59 2026] 127.0.0.1:61299 Closing
+[Wed Apr  8 02:21:01 2026] 127.0.0.1:65023 Invalid request (Unexpected EOF)
+[Wed Apr  8 02:21:01 2026] 127.0.0.1:65023 Closing
+[Wed Apr  8 02:22:35 2026] 127.0.0.1:59299 Closed without sending a request; it was probably just an unused speculative preconnection
+[Wed Apr  8 02:22:35 2026] 127.0.0.1:59299 Closing
+[Wed Apr  8 02:22:35 2026] 127.0.0.1:58795 Accepted
+[Wed Apr  8 02:22:35 2026] 127.0.0.1:63587 Accepted
+[Wed Apr  8 02:22:35 2026] PHP Parse error:  syntax error, unexpected token "if" in C:\Users\lolli\OneDrive\Desktop\Sahani Sita\admin\dashboard.php on line 143
+[Wed Apr  8 02:22:35 2026] 127.0.0.1:58795 [200]: GET /admin/dashboard.php - syntax error, unexpected token "if" in C:\Users\lolli\OneDrive\Desktop\Sahani Sita\admin\dashboard.php on line 143
+[Wed Apr  8 02:22:35 2026] 127.0.0.1:58795 Closing
+[Wed Apr  8 02:22:37 2026] 127.0.0.1:53263 Accepted
+[Wed Apr  8 02:22:37 2026] PHP Parse error:  syntax error, unexpected token "if" in C:\Users\lolli\OneDrive\Desktop\Sahani Sita\admin\dashboard.php on line 143
+[Wed Apr  8 02:22:37 2026] 127.0.0.1:63587 [200]: GET /admin/dashboard.php?edit=5 - syntax error, unexpected token "if" in C:\Users\lolli\OneDrive\Desktop\Sahani Sita\admin\dashboard.php on line 143
+[Wed Apr  8 02:22:37 2026] 127.0.0.1:63587 Closing
+[Wed Apr  8 02:22:38 2026] 127.0.0.1:58203 Accepted
+[Wed Apr  8 02:22:41 2026] 127.0.0.1:53263 [200]: GET /index.php
+[Wed Apr  8 02:22:41 2026] 127.0.0.1:53263 Closing
+[Wed Apr  8 02:22:41 2026] 127.0.0.1:58203 [200]: GET /style.css
+[Wed Apr  8 02:22:41 2026] 127.0.0.1:63245 Accepted
+[Wed Apr  8 02:22:41 2026] 127.0.0.1:63245 [200]: GET /images/logo.png
+[Wed Apr  8 02:22:41 2026] 127.0.0.1:58203 Closing
+[Wed Apr  8 02:22:41 2026] 127.0.0.1:58121 Accepted
+[Wed Apr  8 02:22:41 2026] 127.0.0.1:58121 [200]: GET /images/jerzygorecki-vegetables-1584999.jpg
+[Wed Apr  8 02:22:41 2026] 127.0.0.1:63245 Closing
+[Wed Apr  8 02:22:41 2026] 127.0.0.1:61773 Accepted
+[Wed Apr  8 02:22:41 2026] 127.0.0.1:50569 Accepted
+[Wed Apr  8 02:22:41 2026] 127.0.0.1:61773 [200]: GET /images/hoaluu-pizza-2589575.jpg
+[Wed Apr  8 02:22:41 2026] 127.0.0.1:50569 [200]: GET /images/phamkhanhquynhtrang-smoothie-6760874.jpg
+[Wed Apr  8 02:22:41 2026] 127.0.0.1:61773 Closing
+[Wed Apr  8 02:22:41 2026] 127.0.0.1:58121 Closing
+[Wed Apr  8 02:22:41 2026] 127.0.0.1:50569 Closing
+[Wed Apr  8 02:22:56 2026] 127.0.0.1:65379 Accepted
+[Wed Apr  8 02:22:56 2026] 127.0.0.1:65379 [302]: GET /admin/
+[Wed Apr  8 02:22:56 2026] 127.0.0.1:65379 Closing
+[Wed Apr  8 02:22:56 2026] 127.0.0.1:60623 Accepted
+[Wed Apr  8 02:22:56 2026] PHP Parse error:  syntax error, unexpected token "if" in C:\Users\lolli\OneDrive\Desktop\Sahani Sita\admin\dashboard.php on line 143
+[Wed Apr  8 02:22:56 2026] 127.0.0.1:60623 [200]: GET /admin/dashboard.php - syntax error, unexpected token "if" in C:\Users\lolli\OneDrive\Desktop\Sahani Sita\admin\dashboard.php on line 143
+[Wed Apr  8 02:22:56 2026] 127.0.0.1:60623 Closing
+[Wed Apr  8 02:23:24 2026] 127.0.0.1:60693 Accepted
+[Wed Apr  8 02:23:24 2026] 127.0.0.1:60693 [200]: GET /index.php
+[Wed Apr  8 02:23:24 2026] 127.0.0.1:60693 Closing
+[Wed Apr  8 02:23:24 2026] 127.0.0.1:50352 Accepted
+[Wed Apr  8 02:23:24 2026] 127.0.0.1:50352 [200]: GET /style.css
+[Wed Apr  8 02:23:24 2026] 127.0.0.1:54093 Accepted
+[Wed Apr  8 02:23:24 2026] 127.0.0.1:54093 [200]: GET /images/logo.png
+[Wed Apr  8 02:23:24 2026] 127.0.0.1:61764 Accepted
+[Wed Apr  8 02:23:24 2026] 127.0.0.1:50352 Closing
+[Wed Apr  8 02:23:24 2026] 127.0.0.1:54557 Accepted
+[Wed Apr  8 02:23:24 2026] 127.0.0.1:61764 [200]: GET /images/jerzygorecki-vegetables-1584999.jpg
+[Wed Apr  8 02:23:24 2026] 127.0.0.1:54557 [200]: GET /images/hoaluu-pizza-2589575.jpg
+[Wed Apr  8 02:23:24 2026] 127.0.0.1:54093 Closing
+[Wed Apr  8 02:23:24 2026] 127.0.0.1:56729 Accepted
+[Wed Apr  8 02:23:24 2026] 127.0.0.1:56729 [200]: GET /images/phamkhanhquynhtrang-smoothie-6760874.jpg
+[Wed Apr  8 02:23:24 2026] 127.0.0.1:56729 Closing
+[Wed Apr  8 02:23:24 2026] 127.0.0.1:61764 Closing
+[Wed Apr  8 02:23:24 2026] 127.0.0.1:54557 Closing
+[Wed Apr  8 02:23:43 2026] 127.0.0.1:58657 Accepted
+[Wed Apr  8 02:23:43 2026] 127.0.0.1:52918 Accepted
+[Wed Apr  8 02:23:43 2026] 127.0.0.1:58657 [302]: GET /admin/
+[Wed Apr  8 02:23:43 2026] 127.0.0.1:58657 Closing
+[Wed Apr  8 02:23:43 2026] PHP Parse error:  syntax error, unexpected token "if" in C:\Users\lolli\OneDrive\Desktop\Sahani Sita\admin\dashboard.php on line 143
+[Wed Apr  8 02:23:43 2026] 127.0.0.1:52918 [200]: GET /admin/dashboard.php - syntax error, unexpected token "if" in C:\Users\lolli\OneDrive\Desktop\Sahani Sita\admin\dashboard.php on line 143
+[Wed Apr  8 02:23:43 2026] 127.0.0.1:52918 Closing
+[Wed Apr  8 02:23:55 2026] 127.0.0.1:65482 Accepted
+[Wed Apr  8 02:23:55 2026] 127.0.0.1:49666 Accepted
+[Wed Apr  8 02:23:55 2026] 127.0.0.1:65482 [302]: GET /admin/
+[Wed Apr  8 02:23:55 2026] 127.0.0.1:65482 Closing
+[Wed Apr  8 02:23:55 2026] PHP Parse error:  syntax error, unexpected token "if" in C:\Users\lolli\OneDrive\Desktop\Sahani Sita\admin\dashboard.php on line 143
+[Wed Apr  8 02:23:55 2026] 127.0.0.1:49666 [200]: GET /admin/dashboard.php - syntax error, unexpected token "if" in C:\Users\lolli\OneDrive\Desktop\Sahani Sita\admin\dashboard.php on line 143
+[Wed Apr  8 02:23:55 2026] 127.0.0.1:49666 Closing
+[Wed Apr  8 02:25:36 2026] 127.0.0.1:58992 Accepted
+[Wed Apr  8 02:25:36 2026] 127.0.0.1:64804 Accepted
+[Wed Apr  8 02:25:36 2026] PHP Parse error:  syntax error, unexpected token "if" in C:\Users\lolli\OneDrive\Desktop\Sahani Sita\admin\dashboard.php on line 66
+[Wed Apr  8 02:25:36 2026] 127.0.0.1:58992 [200]: GET /admin/dashboard.php - syntax error, unexpected token "if" in C:\Users\lolli\OneDrive\Desktop\Sahani Sita\admin\dashboard.php on line 66
+[Wed Apr  8 02:25:36 2026] 127.0.0.1:58992 Closing
+[Wed Apr  8 02:25:38 2026] 127.0.0.1:55331 Accepted
+[Wed Apr  8 02:25:38 2026] PHP Parse error:  syntax error, unexpected token "if" in C:\Users\lolli\OneDrive\Desktop\Sahani Sita\admin\dashboard.php on line 66
+[Wed Apr  8 02:25:38 2026] 127.0.0.1:64804 [200]: GET /admin/dashboard.php - syntax error, unexpected token "if" in C:\Users\lolli\OneDrive\Desktop\Sahani Sita\admin\dashboard.php on line 66
+[Wed Apr  8 02:25:38 2026] 127.0.0.1:64804 Closing
+[Wed Apr  8 02:25:40 2026] 127.0.0.1:51090 Accepted
+[Wed Apr  8 02:25:43 2026] 127.0.0.1:55331 [200]: GET /recipes.php
+[Wed Apr  8 02:25:43 2026] 127.0.0.1:55331 Closing
+[Wed Apr  8 02:25:43 2026] 127.0.0.1:51090 [200]: GET /style.css
+[Wed Apr  8 02:25:43 2026] 127.0.0.1:57465 Accepted
+[Wed Apr  8 02:25:43 2026] 127.0.0.1:57465 [200]: GET /images/logo.png
+[Wed Apr  8 02:25:43 2026] 127.0.0.1:51090 Closing
+[Wed Apr  8 02:25:43 2026] 127.0.0.1:63118 Accepted
+[Wed Apr  8 02:25:43 2026] 127.0.0.1:57465 Closing
+[Wed Apr  8 02:25:43 2026] 127.0.0.1:64129 Accepted
+[Wed Apr  8 02:25:43 2026] 127.0.0.1:55512 Accepted
+[Wed Apr  8 02:25:43 2026] 127.0.0.1:60261 Accepted
+[Wed Apr  8 02:25:43 2026] 127.0.0.1:63118 [200]: GET /images/lukasbieri-mediterranean-cuisine-2378758.jpg
+[Wed Apr  8 02:25:43 2026] 127.0.0.1:64129 [200]: GET /images/jerzygorecki-vegetables-1584999.jpg
+[Wed Apr  8 02:25:43 2026] 127.0.0.1:55512 [200]: GET /images/cegoh-cupcakes-1133146.jpg
+[Wed Apr  8 02:25:43 2026] 127.0.0.1:60261 [200]: GET /images/hoaluu-pizza-2589575.jpg
+[Wed Apr  8 02:25:43 2026] 127.0.0.1:51440 Accepted
+[Wed Apr  8 02:25:43 2026] 127.0.0.1:51440 [200]: GET /images/phamkhanhquynhtrang-smoothie-6760874.jpg
+[Wed Apr  8 02:25:43 2026] 127.0.0.1:60261 Closing
+[Wed Apr  8 02:25:43 2026] 127.0.0.1:64129 Closing
+[Wed Apr  8 02:25:43 2026] 127.0.0.1:51440 Closing
+[Wed Apr  8 02:25:43 2026] 127.0.0.1:55512 Closing
+[Wed Apr  8 02:25:43 2026] 127.0.0.1:63118 Closing
+[Wed Apr  8 02:25:44 2026] 127.0.0.1:49838 Accepted
+[Wed Apr  8 02:25:44 2026] 127.0.0.1:55597 Accepted
+[Wed Apr  8 02:25:44 2026] 127.0.0.1:49838 [200]: GET /about.php
+[Wed Apr  8 02:25:44 2026] 127.0.0.1:49838 Closing
+[Wed Apr  8 02:25:44 2026] 127.0.0.1:55597 [200]: GET /style.css
+[Wed Apr  8 02:25:44 2026] 127.0.0.1:60175 Accepted
+[Wed Apr  8 02:25:44 2026] 127.0.0.1:55597 Closing
+[Wed Apr  8 02:25:44 2026] 127.0.0.1:60175 [200]: GET /images/logo.png
+[Wed Apr  8 02:25:44 2026] 127.0.0.1:60175 Closing
+[Wed Apr  8 02:25:46 2026] 127.0.0.1:55974 Accepted
+[Wed Apr  8 02:25:46 2026] 127.0.0.1:57590 Accepted
+[Wed Apr  8 02:25:46 2026] 127.0.0.1:55974 [200]: GET /contact.php
+[Wed Apr  8 02:25:46 2026] 127.0.0.1:55974 Closing
+[Wed Apr  8 02:25:46 2026] 127.0.0.1:57590 [200]: GET /style.css
+[Wed Apr  8 02:25:46 2026] 127.0.0.1:52175 Accepted
+[Wed Apr  8 02:25:46 2026] 127.0.0.1:63120 Accepted
+[Wed Apr  8 02:25:46 2026] 127.0.0.1:57590 Closing
+[Wed Apr  8 02:25:46 2026] 127.0.0.1:50216 Accepted
+[Wed Apr  8 02:25:46 2026] 127.0.0.1:52175 [200]: GET /images/logo.png
+[Wed Apr  8 02:25:46 2026] 127.0.0.1:63120 [200]: GET /images/phone-call.png
+[Wed Apr  8 02:25:46 2026] 127.0.0.1:50216 [200]: GET /images/whatsapp.png
+[Wed Apr  8 02:25:46 2026] 127.0.0.1:52175 Closing
+[Wed Apr  8 02:25:46 2026] 127.0.0.1:63120 Closing
+[Wed Apr  8 02:25:46 2026] 127.0.0.1:50216 Closing
+[Wed Apr  8 02:26:36 2026] 127.0.0.1:55931 Accepted
+[Wed Apr  8 02:26:36 2026] 127.0.0.1:55931 [200]: GET /style.css
+[Wed Apr  8 02:26:36 2026] 127.0.0.1:55931 Closing
+[Wed Apr  8 02:26:36 2026] 127.0.0.1:60902 Accepted
+[Wed Apr  8 02:26:36 2026] 127.0.0.1:60902 [404]: GET /.well-known/appspecific/com.chrome.devtools.json - No such file or directory
+[Wed Apr  8 02:26:36 2026] 127.0.0.1:60902 Closing
+[Wed Apr  8 02:29:49 2026] 127.0.0.1:54214 Accepted
+[Wed Apr  8 02:29:49 2026] 127.0.0.1:54214 [302]: GET /admin/
+[Wed Apr  8 02:29:49 2026] 127.0.0.1:54214 Closing
+[Wed Apr  8 02:29:49 2026] 127.0.0.1:64057 Accepted
+[Wed Apr  8 02:29:49 2026] 127.0.0.1:64057 [200]: GET /admin/dashboard.php
+[Wed Apr  8 02:29:49 2026] 127.0.0.1:64057 Closing
+[Wed Apr  8 02:29:49 2026] 127.0.0.1:53575 Accepted
+[Wed Apr  8 02:29:49 2026] 127.0.0.1:53575 [200]: GET /style.css
+[Wed Apr  8 02:29:49 2026] 127.0.0.1:53575 Closing
+[Wed Apr  8 02:29:49 2026] 127.0.0.1:58216 Accepted
+[Wed Apr  8 02:29:49 2026] 127.0.0.1:58216 [200]: GET /images/logo.png
+[Wed Apr  8 02:29:49 2026] 127.0.0.1:58216 Closing
+[Wed Apr  8 02:30:00 2026] 127.0.0.1:53884 Accepted
+[Wed Apr  8 02:30:00 2026] 127.0.0.1:53884 [302]: GET /admin/
+[Wed Apr  8 02:30:00 2026] 127.0.0.1:53884 Closing
+[Wed Apr  8 02:30:00 2026] 127.0.0.1:53070 Accepted
+[Wed Apr  8 02:30:00 2026] 127.0.0.1:53070 [200]: GET /admin/dashboard.php
+[Wed Apr  8 02:30:00 2026] 127.0.0.1:53070 Closing
+[Wed Apr  8 02:30:00 2026] 127.0.0.1:55374 Accepted
+[Wed Apr  8 02:30:00 2026] 127.0.0.1:63713 Accepted
+[Wed Apr  8 02:30:00 2026] 127.0.0.1:55374 [200]: GET /style.css
+[Wed Apr  8 02:30:00 2026] 127.0.0.1:63713 [200]: GET /images/logo.png
+[Wed Apr  8 02:30:00 2026] 127.0.0.1:55374 Closing
+[Wed Apr  8 02:30:00 2026] 127.0.0.1:63713 Closing
+[Wed Apr  8 02:30:05 2026] 127.0.0.1:63715 Accepted
+[Wed Apr  8 02:30:05 2026] 127.0.0.1:63715 [302]: POST /admin/
+[Wed Apr  8 02:30:05 2026] 127.0.0.1:63715 Closing
+[Wed Apr  8 02:30:05 2026] 127.0.0.1:63717 Accepted
+[Wed Apr  8 02:30:05 2026] 127.0.0.1:63717 [200]: GET /admin/dashboard.php?edit=2
+[Wed Apr  8 02:30:05 2026] 127.0.0.1:63717 Closing
+[Wed Apr  8 02:30:11 2026] 127.0.0.1:63720 Accepted
+[Wed Apr  8 02:30:12 2026] 127.0.0.1:63720 [302]: POST /admin/dashboard.php
+[Wed Apr  8 02:30:12 2026] 127.0.0.1:63720 Closing
+[Wed Apr  8 02:30:17 2026] 127.0.0.1:63724 Accepted
+[Wed Apr  8 02:30:19 2026] 127.0.0.1:63724 [302]: POST /admin/dashboard.php
+[Wed Apr  8 02:30:19 2026] 127.0.0.1:63724 Closing
+[Wed Apr  8 02:30:28 2026] 127.0.0.1:63728 Accepted
+[Wed Apr  8 02:30:28 2026] 127.0.0.1:63728 [302]: POST /admin/dashboard.php?edit=2
+[Wed Apr  8 02:30:28 2026] 127.0.0.1:63728 Closing
+[Wed Apr  8 02:30:47 2026] 127.0.0.1:51732 Accepted
+[Wed Apr  8 02:30:47 2026] 127.0.0.1:51732 [302]: POST /admin/dashboard.php
+[Wed Apr  8 02:30:47 2026] 127.0.0.1:51732 Closing
+[Wed Apr  8 02:31:11 2026] 127.0.0.1:53882 Accepted
+[Wed Apr  8 02:31:11 2026] 127.0.0.1:61914 Accepted
+[Wed Apr  8 02:34:38 2026] PHP Warning:  POST Content-Length of 115155733 bytes exceeds the limit of 41943040 bytes in Unknown on line 0
+[Wed Apr  8 02:34:38 2026] 127.0.0.1:53882 [200]: POST /admin/dashboard.php
+[Wed Apr  8 02:34:38 2026] 127.0.0.1:53882 Closing
+[Wed Apr  8 02:34:38 2026] 127.0.0.1:61914 Closed without sending a request; it was probably just an unused speculative preconnection
+[Wed Apr  8 02:34:38 2026] 127.0.0.1:61914 Closing
+[Wed Apr  8 02:34:38 2026] 127.0.0.1:55609 Accepted
+[Wed Apr  8 02:34:38 2026] 127.0.0.1:50352 Accepted
+[Wed Apr  8 02:34:38 2026] 127.0.0.1:55609 [200]: GET /style.css
+[Wed Apr  8 02:34:38 2026] 127.0.0.1:50352 [200]: GET /images/logo.png
+[Wed Apr  8 02:34:38 2026] 127.0.0.1:55609 Closing
+[Wed Apr  8 02:34:38 2026] 127.0.0.1:50352 Closing
+[Wed Apr  8 02:38:29 2026] 127.0.0.1:54166 Accepted
+[Wed Apr  8 02:38:30 2026] 127.0.0.1:54166 [200]: POST /admin/upload-media.php
+[Wed Apr  8 02:38:30 2026] 127.0.0.1:54166 Closing
+[Wed Apr  8 02:38:37 2026] 127.0.0.1:57490 Accepted
+[Wed Apr  8 02:38:37 2026] 127.0.0.1:57490 [302]: POST /admin/dashboard.php
+[Wed Apr  8 02:38:37 2026] 127.0.0.1:57490 Closing
+[Wed Apr  8 02:38:44 2026] 127.0.0.1:57495 Accepted
+[Wed Apr  8 02:38:44 2026] 127.0.0.1:57495 [200]: GET /recipes.php
+[Wed Apr  8 02:38:44 2026] 127.0.0.1:57495 Closing
+[Wed Apr  8 02:38:50 2026] 127.0.0.1:57498 Accepted
+[Wed Apr  8 02:38:51 2026] 127.0.0.1:57498 [302]: POST /admin/dashboard.php
+[Wed Apr  8 02:38:51 2026] 127.0.0.1:57498 Closing
+[Wed Apr  8 02:41:09 2026] 127.0.0.1:52539 Accepted
+[Wed Apr  8 02:41:09 2026] 127.0.0.1:57195 Accepted
+[Wed Apr  8 02:41:36 2026] 127.0.0.1:58940 Accepted
+[Wed Apr  8 02:41:36 2026] 127.0.0.1:57195 [200]: GET /index.php
+[Wed Apr  8 02:41:36 2026] 127.0.0.1:57195 Closing
+[Wed Apr  8 02:41:36 2026] 127.0.0.1:61702 Accepted
+[Wed Apr  8 02:41:36 2026] 127.0.0.1:58940 [200]: GET /style.css
+[Wed Apr  8 02:41:36 2026] 127.0.0.1:61604 Accepted
+[Wed Apr  8 02:41:36 2026] 127.0.0.1:61702 [200]: GET /images/logo.png
+[Wed Apr  8 02:41:36 2026] 127.0.0.1:54111 Accepted
+[Wed Apr  8 02:41:36 2026] 127.0.0.1:61604 [200]: GET /images/jerzygorecki-vegetables-1584999.jpg
+[Wed Apr  8 02:41:36 2026] 127.0.0.1:62065 Accepted
+[Wed Apr  8 02:41:36 2026] 127.0.0.1:54111 [200]: GET /images/hoaluu-pizza-2589575.jpg
+[Wed Apr  8 02:41:36 2026] 127.0.0.1:58940 Closing
+[Wed Apr  8 02:41:36 2026] 127.0.0.1:62065 [200]: GET /images/phamkhanhquynhtrang-smoothie-6760874.jpg
+[Wed Apr  8 02:41:36 2026] 127.0.0.1:61702 Closing
+[Wed Apr  8 02:41:37 2026] 127.0.0.1:54111 Closing
+[Wed Apr  8 02:41:37 2026] 127.0.0.1:61604 Closing
+[Wed Apr  8 02:41:37 2026] 127.0.0.1:62065 Closing
+[Wed Apr  8 02:41:37 2026] 127.0.0.1:52539 Invalid request (Unexpected EOF)
+[Wed Apr  8 02:41:37 2026] 127.0.0.1:52539 Closing
+[Wed Apr  8 02:41:43 2026] 127.0.0.1:60342 Accepted
+[Wed Apr  8 02:41:43 2026] 127.0.0.1:60342 [302]: GET /admin/
+[Wed Apr  8 02:41:43 2026] 127.0.0.1:60342 Closing
+[Wed Apr  8 02:41:43 2026] 127.0.0.1:61888 Accepted
+[Wed Apr  8 02:41:43 2026] 127.0.0.1:61888 [200]: GET /admin/dashboard.php
+[Wed Apr  8 02:41:43 2026] 127.0.0.1:61888 Closing
+[Wed Apr  8 02:41:43 2026] 127.0.0.1:50026 Accepted
+[Wed Apr  8 02:41:43 2026] 127.0.0.1:62990 Accepted
+[Wed Apr  8 02:41:43 2026] 127.0.0.1:50026 [200]: GET /style.css
+[Wed Apr  8 02:41:43 2026] 127.0.0.1:62990 [200]: GET /images/logo.png
+[Wed Apr  8 02:41:43 2026] 127.0.0.1:50026 Closing
+[Wed Apr  8 02:41:43 2026] 127.0.0.1:62990 Closing
+[Wed Apr  8 02:42:50 2026] 127.0.0.1:60191 Accepted
+[Wed Apr  8 02:44:51 2026] 127.0.0.1:51668 Accepted
+[Wed Apr  8 02:44:51 2026] 127.0.0.1:51668 [200]: GET /index.php
+[Wed Apr  8 02:44:51 2026] 127.0.0.1:51668 Closing
+[Wed Apr  8 02:44:51 2026] 127.0.0.1:54773 Accepted
+[Wed Apr  8 02:44:51 2026] 127.0.0.1:61242 Accepted
+[Wed Apr  8 02:44:51 2026] 127.0.0.1:54773 [200]: GET /style.css
+[Wed Apr  8 02:44:51 2026] 127.0.0.1:58733 Accepted
+[Wed Apr  8 02:44:51 2026] 127.0.0.1:61242 [200]: GET /images/logo.png
+[Wed Apr  8 02:44:51 2026] 127.0.0.1:55529 Accepted
+[Wed Apr  8 02:44:51 2026] 127.0.0.1:58733 [200]: GET /images/jerzygorecki-vegetables-1584999.jpg
+[Wed Apr  8 02:44:51 2026] 127.0.0.1:54167 Accepted
+[Wed Apr  8 02:44:51 2026] 127.0.0.1:55529 [200]: GET /images/hoaluu-pizza-2589575.jpg
+[Wed Apr  8 02:44:51 2026] 127.0.0.1:54773 Closing
+[Wed Apr  8 02:44:51 2026] 127.0.0.1:54167 [200]: GET /images/phamkhanhquynhtrang-smoothie-6760874.jpg
+[Wed Apr  8 02:44:51 2026] 127.0.0.1:61242 Closing
+[Wed Apr  8 02:44:52 2026] 127.0.0.1:55529 Closing
+[Wed Apr  8 02:44:52 2026] 127.0.0.1:58733 Closing
+[Wed Apr  8 02:44:53 2026] 127.0.0.1:54167 Closing
+[Wed Apr  8 02:46:20 2026] PHP Warning:  POST Content-Length of 115154749 bytes exceeds the limit of 41943040 bytes in Unknown on line 0
+[Wed Apr  8 02:46:20 2026] 127.0.0.1:60191 [200]: POST /admin/upload-media.php
+[Wed Apr  8 02:46:20 2026] 127.0.0.1:60191 Closing
+[Wed Apr  8 02:49:04 2026] 127.0.0.1:52326 Accepted
+[Wed Apr  8 02:49:05 2026] 127.0.0.1:52326 [200]: POST /admin/upload-media.php
+[Wed Apr  8 02:49:05 2026] 127.0.0.1:52326 Closing
+[Wed Apr  8 02:50:43 2026] 127.0.0.1:49672 Accepted
+[Wed Apr  8 02:50:44 2026] 127.0.0.1:49672 [200]: POST /admin/upload-media.php
+[Wed Apr  8 02:50:44 2026] 127.0.0.1:49672 Closing
+[Wed Apr  8 02:51:19 2026] 127.0.0.1:55906 Accepted
+[Wed Apr  8 02:51:19 2026] 127.0.0.1:55906 [200]: POST /admin/dashboard.php
+[Wed Apr  8 02:51:19 2026] 127.0.0.1:55906 Closing
+[Wed Apr  8 02:51:19 2026] 127.0.0.1:53232 Accepted
+[Wed Apr  8 02:51:19 2026] 127.0.0.1:53232 [200]: GET /style.css
+[Wed Apr  8 02:51:19 2026] 127.0.0.1:54774 Accepted
+[Wed Apr  8 02:51:19 2026] 127.0.0.1:53232 Closing
+[Wed Apr  8 02:51:19 2026] 127.0.0.1:54774 [200]: GET /images/logo.png
+[Wed Apr  8 02:51:19 2026] 127.0.0.1:54774 Closing
+[Wed Apr  8 02:51:30 2026] 127.0.0.1:57759 Accepted
+[Wed Apr  8 02:51:56 2026] 127.0.0.1:61111 Accepted
+[Wed Apr  8 02:51:56 2026] 127.0.0.1:61111 [200]: POST /admin/dashboard.php
+[Wed Apr  8 02:51:56 2026] 127.0.0.1:61111 Closing
+[Wed Apr  8 02:51:56 2026] 127.0.0.1:60792 Accepted
+[Wed Apr  8 02:51:56 2026] 127.0.0.1:55138 Accepted
+[Wed Apr  8 02:51:56 2026] 127.0.0.1:60792 [200]: GET /style.css
+[Wed Apr  8 02:51:56 2026] 127.0.0.1:55138 [200]: GET /images/logo.png
+[Wed Apr  8 02:51:56 2026] 127.0.0.1:60792 Closing
+[Wed Apr  8 02:51:56 2026] 127.0.0.1:55138 Closing
+[Wed Apr  8 02:51:57 2026] 127.0.0.1:57759 Invalid request (Unexpected EOF)
+[Wed Apr  8 02:51:57 2026] 127.0.0.1:57759 Closing
+[Wed Apr  8 02:52:04 2026] 127.0.0.1:54366 Accepted
+[Wed Apr  8 02:54:31 2026] PHP Warning:  POST Content-Length of 115154749 bytes exceeds the limit of 41943040 bytes in Unknown on line 0
+[Wed Apr  8 02:54:31 2026] 127.0.0.1:54366 [200]: POST /admin/upload-media.php
+[Wed Apr  8 02:54:31 2026] 127.0.0.1:54366 Closing
+[Wed Apr  8 02:54:31 2026] 127.0.0.1:59364 Accepted
+[Wed Apr  8 02:55:40 2026] 127.0.0.1:62329 Accepted
+[Wed Apr  8 02:55:40 2026] 127.0.0.1:62329 [200]: GET /index.php
+[Wed Apr  8 02:55:40 2026] 127.0.0.1:62329 Closing
+[Wed Apr  8 02:56:04 2026] 127.0.0.1:62336 Accepted
+[Wed Apr  8 02:56:12 2026] 127.0.0.1:62336 [200]: POST /admin/upload-media.php
+[Wed Apr  8 02:56:12 2026] 127.0.0.1:62336 Closing
+[Wed Apr  8 02:56:43 2026] PHP Warning:  POST Content-Length of 115154749 bytes exceeds the limit of 41943040 bytes in Unknown on line 0
+[Wed Apr  8 02:56:43 2026] 127.0.0.1:59364 [413]: POST /admin/upload-media.php
+[Wed Apr  8 02:56:43 2026] 127.0.0.1:59364 Closing
+[Wed Apr  8 02:56:43 2026] 127.0.0.1:63800 Accepted
+[Wed Apr  8 02:58:20 2026] 127.0.0.1:57192 Accepted
+[Wed Apr  8 02:58:20 2026] 127.0.0.1:57192 [200]: POST /admin/dashboard.php
+[Wed Apr  8 02:58:20 2026] 127.0.0.1:57192 Closing
+[Wed Apr  8 02:58:20 2026] 127.0.0.1:60221 Accepted
+[Wed Apr  8 02:58:20 2026] 127.0.0.1:64898 Accepted
+[Wed Apr  8 02:58:20 2026] 127.0.0.1:60221 [200]: GET /style.css
+[Wed Apr  8 02:58:20 2026] 127.0.0.1:64898 [200]: GET /images/logo.png
+[Wed Apr  8 02:58:20 2026] 127.0.0.1:60221 Closing
+[Wed Apr  8 02:58:21 2026] 127.0.0.1:64898 Closing
+[Wed Apr  8 02:58:23 2026] 127.0.0.1:63800 Invalid request (Unexpected EOF)
+[Wed Apr  8 02:58:23 2026] 127.0.0.1:63800 Closing
+[Wed Apr  8 02:58:30 2026] 127.0.0.1:52883 Accepted
+[Wed Apr  8 02:58:30 2026] 127.0.0.1:52883 [200]: POST /admin/upload-media.php
+[Wed Apr  8 02:58:30 2026] 127.0.0.1:52883 Closing
+[Wed Apr  8 02:58:30 2026] 127.0.0.1:52927 Accepted
+[Wed Apr  8 02:58:30 2026] 127.0.0.1:52927 [200]: GET /images/uploads/cegoh-cupcakes-1133146-69d59a26ac5b1.jpg
+[Wed Apr  8 02:58:30 2026] 127.0.0.1:52927 Closing
+[Wed Apr  8 02:58:34 2026] 127.0.0.1:56093 Accepted
+[Wed Apr  8 02:58:35 2026] 127.0.0.1:56093 [200]: POST /admin/upload-media.php
+[Wed Apr  8 02:58:35 2026] 127.0.0.1:56093 Closing
+[Wed Apr  8 02:58:35 2026] 127.0.0.1:49990 Accepted
+[Wed Apr  8 02:58:35 2026] 127.0.0.1:49990 [200]: GET /images/uploads/hoaluu-pizza-2589575-69d59a2b0169d.jpg
+[Wed Apr  8 02:58:35 2026] 127.0.0.1:49990 Closing
+[Wed Apr  8 02:58:39 2026] 127.0.0.1:62970 Accepted
+[Wed Apr  8 02:58:39 2026] 127.0.0.1:62970 [302]: POST /admin/dashboard.php
+[Wed Apr  8 02:58:39 2026] 127.0.0.1:62970 Closing
+[Wed Apr  8 02:58:39 2026] 127.0.0.1:51702 Accepted
+[Wed Apr  8 02:58:39 2026] 127.0.0.1:51702 [200]: GET /admin/dashboard.php?status=created
+[Wed Apr  8 02:58:39 2026] 127.0.0.1:51702 Closing
+[Wed Apr  8 02:58:39 2026] 127.0.0.1:59999 Accepted
+[Wed Apr  8 02:58:39 2026] 127.0.0.1:64063 Accepted
+[Wed Apr  8 02:58:39 2026] 127.0.0.1:59999 [200]: GET /style.css
+[Wed Apr  8 02:58:39 2026] 127.0.0.1:64063 [200]: GET /images/logo.png
+[Wed Apr  8 02:58:39 2026] 127.0.0.1:59999 Closing
+[Wed Apr  8 02:58:39 2026] 127.0.0.1:64063 Closing
+[Wed Apr  8 02:59:02 2026] 127.0.0.1:58738 Accepted
+[Wed Apr  8 02:59:02 2026] 127.0.0.1:60822 Accepted
+[Wed Apr  8 02:59:02 2026] 127.0.0.1:58738 [200]: GET /admin/dashboard.php?edit=10
+[Wed Apr  8 02:59:02 2026] 127.0.0.1:58738 Closing
+[Wed Apr  8 02:59:02 2026] 127.0.0.1:60822 [200]: GET /style.css
+[Wed Apr  8 02:59:02 2026] 127.0.0.1:55801 Accepted
+[Wed Apr  8 02:59:02 2026] 127.0.0.1:60822 Closing
+[Wed Apr  8 02:59:02 2026] 127.0.0.1:59048 Accepted
+[Wed Apr  8 02:59:02 2026] 127.0.0.1:49834 Accepted
+[Wed Apr  8 02:59:02 2026] 127.0.0.1:55801 [200]: GET /images/logo.png
+[Wed Apr  8 02:59:02 2026] 127.0.0.1:59048 [200]: GET /images/uploads/cegoh-cupcakes-1133146-69d59a26ac5b1.jpg
+[Wed Apr  8 02:59:02 2026] 127.0.0.1:49834 [200]: GET /images/uploads/hoaluu-pizza-2589575-69d59a2b0169d.jpg
+[Wed Apr  8 02:59:02 2026] 127.0.0.1:55801 Closing
+[Wed Apr  8 02:59:02 2026] 127.0.0.1:49834 Closing
+[Wed Apr  8 02:59:02 2026] 127.0.0.1:59048 Closing
+[Wed Apr  8 02:59:05 2026] 127.0.0.1:54144 Accepted
+[Wed Apr  8 02:59:05 2026] 127.0.0.1:58448 Accepted
+[Wed Apr  8 02:59:05 2026] 127.0.0.1:54144 [200]: GET /index.php
+[Wed Apr  8 02:59:05 2026] 127.0.0.1:54144 Closing
+[Wed Apr  8 02:59:05 2026] 127.0.0.1:58448 [200]: GET /style.css
+[Wed Apr  8 02:59:05 2026] 127.0.0.1:58448 Closing
+[Wed Apr  8 02:59:05 2026] 127.0.0.1:62457 Accepted
+[Wed Apr  8 02:59:05 2026] 127.0.0.1:58892 Accepted
+[Wed Apr  8 02:59:05 2026] 127.0.0.1:59053 Accepted
+[Wed Apr  8 02:59:05 2026] 127.0.0.1:51240 Accepted
+[Wed Apr  8 02:59:05 2026] 127.0.0.1:62457 [200]: GET /images/logo.png
+[Wed Apr  8 02:59:05 2026] 127.0.0.1:58892 [200]: GET /images/uploads/cegoh-cupcakes-1133146-69d59a26ac5b1.jpg
+[Wed Apr  8 02:59:05 2026] 127.0.0.1:59053 [200]: GET /images/jerzygorecki-vegetables-1584999.jpg
+[Wed Apr  8 02:59:05 2026] 127.0.0.1:51240 [200]: GET /images/hoaluu-pizza-2589575.jpg
+[Wed Apr  8 02:59:05 2026] 127.0.0.1:62457 Closing
+[Wed Apr  8 02:59:05 2026] 127.0.0.1:59053 Closing
+[Wed Apr  8 02:59:05 2026] 127.0.0.1:51240 Closing
+[Wed Apr  8 02:59:05 2026] 127.0.0.1:58892 Closing
+[Wed Apr  8 02:59:10 2026] 127.0.0.1:49667 Accepted
+[Wed Apr  8 02:59:10 2026] 127.0.0.1:49667 [200]: GET /recipe-detail.php?id=10
+[Wed Apr  8 02:59:10 2026] 127.0.0.1:49667 Closing
+[Wed Apr  8 02:59:10 2026] 127.0.0.1:51510 Accepted
+[Wed Apr  8 02:59:10 2026] 127.0.0.1:51510 [200]: GET /style.css
+[Wed Apr  8 02:59:10 2026] 127.0.0.1:63033 Accepted
+[Wed Apr  8 02:59:10 2026] 127.0.0.1:51510 Closing
+[Wed Apr  8 02:59:10 2026] 127.0.0.1:58631 Accepted
+[Wed Apr  8 02:59:10 2026] 127.0.0.1:53524 Accepted
+[Wed Apr  8 02:59:10 2026] 127.0.0.1:63033 [200]: GET /images/logo.png
+[Wed Apr  8 02:59:10 2026] 127.0.0.1:58631 [200]: GET /images/uploads/cegoh-cupcakes-1133146-69d59a26ac5b1.jpg
+[Wed Apr  8 02:59:10 2026] 127.0.0.1:53524 [200]: GET /images/uploads/hoaluu-pizza-2589575-69d59a2b0169d.jpg
+[Wed Apr  8 02:59:10 2026] 127.0.0.1:63033 Closing
+[Wed Apr  8 02:59:10 2026] 127.0.0.1:53524 Closing
+[Wed Apr  8 02:59:10 2026] 127.0.0.1:58631 Closing
+[Wed Apr  8 03:01:17 2026] 127.0.0.1:59659 Accepted
+[Wed Apr  8 03:01:17 2026] 127.0.0.1:53394 Accepted
+[Wed Apr  8 03:01:17 2026] 127.0.0.1:59659 [200]: GET /recipes.php
+[Wed Apr  8 03:01:17 2026] 127.0.0.1:59659 Closing
+[Wed Apr  8 03:01:17 2026] 127.0.0.1:53394 [200]: GET /style.css
+[Wed Apr  8 03:01:17 2026] 127.0.0.1:53573 Accepted
+[Wed Apr  8 03:01:17 2026] 127.0.0.1:53394 Closing
+[Wed Apr  8 03:01:17 2026] 127.0.0.1:50647 Accepted
+[Wed Apr  8 03:01:17 2026] 127.0.0.1:53573 [200]: GET /images/logo.png
+[Wed Apr  8 03:01:17 2026] 127.0.0.1:50647 [200]: GET /images/uploads/cegoh-cupcakes-1133146-69d59a26ac5b1.jpg
+[Wed Apr  8 03:01:17 2026] 127.0.0.1:58613 Accepted
+[Wed Apr  8 03:01:17 2026] 127.0.0.1:57523 Accepted
+[Wed Apr  8 03:01:17 2026] 127.0.0.1:53573 Closing
+[Wed Apr  8 03:01:17 2026] 127.0.0.1:54608 Accepted
+[Wed Apr  8 03:01:17 2026] 127.0.0.1:58613 [200]: GET /images/lukasbieri-mediterranean-cuisine-2378758.jpg
+[Wed Apr  8 03:01:17 2026] 127.0.0.1:57523 [200]: GET /images/jerzygorecki-vegetables-1584999.jpg
+[Wed Apr  8 03:01:17 2026] 127.0.0.1:54608 [200]: GET /images/cegoh-cupcakes-1133146.jpg
+[Wed Apr  8 03:01:17 2026] 127.0.0.1:50741 Accepted
+[Wed Apr  8 03:01:17 2026] 127.0.0.1:50741 [200]: GET /images/hoaluu-pizza-2589575.jpg
+[Wed Apr  8 03:01:17 2026] 127.0.0.1:52223 Accepted
+[Wed Apr  8 03:01:17 2026] 127.0.0.1:52223 [200]: GET /images/phamkhanhquynhtrang-smoothie-6760874.jpg
+[Wed Apr  8 03:01:17 2026] 127.0.0.1:50741 Closing
+[Wed Apr  8 03:01:17 2026] 127.0.0.1:57523 Closing
+[Wed Apr  8 03:01:17 2026] 127.0.0.1:52223 Closing
+[Wed Apr  8 03:01:17 2026] 127.0.0.1:50647 Closing
+[Wed Apr  8 03:01:17 2026] 127.0.0.1:54608 Closing
+[Wed Apr  8 03:01:17 2026] 127.0.0.1:58613 Closing
+[Wed Apr  8 03:04:40 2026] 127.0.0.1:61681 Accepted
+[Wed Apr  8 03:04:40 2026] 127.0.0.1:57461 Accepted
+[Wed Apr  8 03:04:40 2026] 127.0.0.1:61681 [200]: GET /recipes.php
+[Wed Apr  8 03:04:40 2026] 127.0.0.1:61681 Closing
+[Wed Apr  8 03:04:40 2026] 127.0.0.1:57461 [200]: GET /style.css
+[Wed Apr  8 03:04:40 2026] 127.0.0.1:57295 Accepted
+[Wed Apr  8 03:04:40 2026] 127.0.0.1:57461 Closing
+[Wed Apr  8 03:04:40 2026] 127.0.0.1:57295 [200]: GET /images/logo.png
+[Wed Apr  8 03:04:40 2026] 127.0.0.1:52376 Accepted
+[Wed Apr  8 03:04:40 2026] 127.0.0.1:57295 Closing
+[Wed Apr  8 03:04:40 2026] 127.0.0.1:63635 Accepted
+[Wed Apr  8 03:04:40 2026] 127.0.0.1:53387 Accepted
+[Wed Apr  8 03:04:40 2026] 127.0.0.1:57645 Accepted
+[Wed Apr  8 03:04:40 2026] 127.0.0.1:52376 [200]: GET /images/uploads/cegoh-cupcakes-1133146-69d59a26ac5b1.jpg
+[Wed Apr  8 03:04:40 2026] 127.0.0.1:63635 [200]: GET /images/lukasbieri-mediterranean-cuisine-2378758.jpg
+[Wed Apr  8 03:04:40 2026] 127.0.0.1:53387 [200]: GET /images/jerzygorecki-vegetables-1584999.jpg
+[Wed Apr  8 03:04:40 2026] 127.0.0.1:57645 [200]: GET /images/cegoh-cupcakes-1133146.jpg
+[Wed Apr  8 03:04:40 2026] 127.0.0.1:59119 Accepted
+[Wed Apr  8 03:04:40 2026] 127.0.0.1:59119 [200]: GET /images/hoaluu-pizza-2589575.jpg
+[Wed Apr  8 03:04:40 2026] 127.0.0.1:49666 Accepted
+[Wed Apr  8 03:04:40 2026] 127.0.0.1:49666 [200]: GET /images/phamkhanhquynhtrang-smoothie-6760874.jpg
+[Wed Apr  8 03:04:40 2026] 127.0.0.1:53387 Closing
+[Wed Apr  8 03:04:40 2026] 127.0.0.1:59119 Closing
+[Wed Apr  8 03:04:40 2026] 127.0.0.1:52376 Closing
+[Wed Apr  8 03:04:40 2026] 127.0.0.1:57645 Closing
+[Wed Apr  8 03:04:40 2026] 127.0.0.1:49666 Closing
+[Wed Apr  8 03:04:40 2026] 127.0.0.1:63635 Closing
+[Wed Apr  8 10:23:53 2026] 127.0.0.1:61490 Accepted
+[Wed Apr  8 10:23:53 2026] 127.0.0.1:56019 Accepted
+[Wed Apr  8 10:23:53 2026] 127.0.0.1:61490 [200]: GET /recipes.php
+[Wed Apr  8 10:23:53 2026] 127.0.0.1:61490 Closing
+[Wed Apr  8 10:23:53 2026] 127.0.0.1:56019 [200]: GET /style.css
+[Wed Apr  8 10:23:53 2026] 127.0.0.1:56019 Closing
+[Wed Apr  8 10:23:53 2026] 127.0.0.1:59312 Accepted
+[Wed Apr  8 10:23:53 2026] 127.0.0.1:50366 Accepted
+[Wed Apr  8 10:23:53 2026] 127.0.0.1:59312 [200]: GET /images/logo.png
+[Wed Apr  8 10:23:53 2026] 127.0.0.1:50366 [200]: GET /images/uploads/cegoh-cupcakes-1133146-69d59a26ac5b1.jpg
+[Wed Apr  8 10:23:53 2026] 127.0.0.1:59312 Closing
+[Wed Apr  8 10:23:53 2026] 127.0.0.1:61323 Accepted
+[Wed Apr  8 10:23:53 2026] 127.0.0.1:61323 [200]: GET /images/lukasbieri-mediterranean-cuisine-2378758.jpg
+[Wed Apr  8 10:23:53 2026] 127.0.0.1:52813 Accepted
+[Wed Apr  8 10:23:53 2026] 127.0.0.1:57379 Accepted
+[Wed Apr  8 10:23:53 2026] 127.0.0.1:56220 Accepted
+[Wed Apr  8 10:23:53 2026] 127.0.0.1:51077 Accepted
+[Wed Apr  8 10:23:53 2026] 127.0.0.1:52813 [200]: GET /images/jerzygorecki-vegetables-1584999.jpg
+[Wed Apr  8 10:23:53 2026] 127.0.0.1:57379 [200]: GET /images/cegoh-cupcakes-1133146.jpg
+[Wed Apr  8 10:23:53 2026] 127.0.0.1:56220 [200]: GET /images/hoaluu-pizza-2589575.jpg
+[Wed Apr  8 10:23:53 2026] 127.0.0.1:51077 [200]: GET /images/phamkhanhquynhtrang-smoothie-6760874.jpg
+[Wed Apr  8 10:23:53 2026] 127.0.0.1:56220 Closing
+[Wed Apr  8 10:23:53 2026] 127.0.0.1:50366 Closing
+[Wed Apr  8 10:23:53 2026] 127.0.0.1:52813 Closing
+[Wed Apr  8 10:23:53 2026] 127.0.0.1:51077 Closing
+[Wed Apr  8 10:23:53 2026] 127.0.0.1:57379 Closing
+[Wed Apr  8 10:23:53 2026] 127.0.0.1:61323 Closing
+[Wed Apr  8 10:24:11 2026] 127.0.0.1:54096 Accepted
+[Wed Apr  8 10:24:11 2026] 127.0.0.1:54096 [200]: GET /recipe-detail.php?id=2
+[Wed Apr  8 10:24:11 2026] 127.0.0.1:54096 Closing
+[Wed Apr  8 10:24:11 2026] 127.0.0.1:62672 Accepted
+[Wed Apr  8 10:24:11 2026] 127.0.0.1:62672 [200]: GET /style.css
+[Wed Apr  8 10:24:11 2026] 127.0.0.1:56899 Accepted
+[Wed Apr  8 10:24:11 2026] 127.0.0.1:62672 Closing
+[Wed Apr  8 10:24:11 2026] 127.0.0.1:54297 Accepted
+[Wed Apr  8 10:24:11 2026] 127.0.0.1:62441 Accepted
+[Wed Apr  8 10:24:12 2026] 127.0.0.1:56899 [200]: GET /images/logo.png
+[Wed Apr  8 10:24:12 2026] 127.0.0.1:54297 [200]: GET /images/hoaluu-pizza-2589575.jpg
+[Wed Apr  8 10:24:12 2026] 127.0.0.1:62441 [200]: GET /images/wow_pho-pizza-712667.jpg
+[Wed Apr  8 10:24:12 2026] 127.0.0.1:56899 Closing
+[Wed Apr  8 10:24:12 2026] 127.0.0.1:64856 Accepted
+[Wed Apr  8 10:24:12 2026] 127.0.0.1:64856 [200]: GET /images/143420-782373959.mp4
+[Wed Apr  8 10:24:12 2026] 127.0.0.1:62441 Closing
+[Wed Apr  8 10:24:12 2026] 127.0.0.1:54297 Closing
+[Wed Apr  8 10:24:13 2026] 127.0.0.1:64856 Closing
+[Wed Apr  8 10:24:13 2026] 127.0.0.1:61009 Accepted
+[Wed Apr  8 10:24:13 2026] 127.0.0.1:61009 [200]: GET /images/143420-782373959.mp4
+[Wed Apr  8 10:24:24 2026] 127.0.0.1:61009 Closing
+[Wed Apr  8 10:24:37 2026] 127.0.0.1:56810 Accepted
+[Wed Apr  8 10:24:37 2026] 127.0.0.1:56810 [200]: GET /recipes.php
+[Wed Apr  8 10:24:37 2026] 127.0.0.1:56810 Closing
+[Wed Apr  8 10:24:37 2026] 127.0.0.1:61463 Accepted
+[Wed Apr  8 10:24:37 2026] 127.0.0.1:61463 [200]: GET /style.css
+[Wed Apr  8 10:24:37 2026] 127.0.0.1:61463 Closing
+[Wed Apr  8 10:24:37 2026] 127.0.0.1:49762 Accepted
+[Wed Apr  8 10:24:37 2026] 127.0.0.1:49356 Accepted
+[Wed Apr  8 10:24:37 2026] 127.0.0.1:60523 Accepted
+[Wed Apr  8 10:24:37 2026] 127.0.0.1:58660 Accepted
+[Wed Apr  8 10:24:37 2026] 127.0.0.1:49666 Accepted
+[Wed Apr  8 10:24:37 2026] 127.0.0.1:49762 [200]: GET /images/logo.png
+[Wed Apr  8 10:24:37 2026] 127.0.0.1:49356 [200]: GET /images/uploads/cegoh-cupcakes-1133146-69d59a26ac5b1.jpg
+[Wed Apr  8 10:24:37 2026] 127.0.0.1:60523 [200]: GET /images/lukasbieri-mediterranean-cuisine-2378758.jpg
+[Wed Apr  8 10:24:37 2026] 127.0.0.1:58660 [200]: GET /images/jerzygorecki-vegetables-1584999.jpg
+[Wed Apr  8 10:24:37 2026] 127.0.0.1:49666 [200]: GET /images/cegoh-cupcakes-1133146.jpg
+[Wed Apr  8 10:24:37 2026] 127.0.0.1:49762 Closing
+[Wed Apr  8 10:24:37 2026] 127.0.0.1:53742 Accepted
+[Wed Apr  8 10:24:37 2026] 127.0.0.1:53742 [200]: GET /images/hoaluu-pizza-2589575.jpg
+[Wed Apr  8 10:24:37 2026] 127.0.0.1:56715 Accepted
+[Wed Apr  8 10:24:37 2026] 127.0.0.1:56715 [200]: GET /images/phamkhanhquynhtrang-smoothie-6760874.jpg
+[Wed Apr  8 10:24:37 2026] 127.0.0.1:58660 Closing
+[Wed Apr  8 10:24:37 2026] 127.0.0.1:53742 Closing
+[Wed Apr  8 10:24:37 2026] 127.0.0.1:49356 Closing
+[Wed Apr  8 10:24:37 2026] 127.0.0.1:49666 Closing
+[Wed Apr  8 10:24:37 2026] 127.0.0.1:56715 Closing
+[Wed Apr  8 10:24:37 2026] 127.0.0.1:60523 Closing
+[Wed Apr  8 10:24:45 2026] 127.0.0.1:49666 Accepted
+[Wed Apr  8 10:24:45 2026] 127.0.0.1:56084 Accepted
+[Wed Apr  8 10:24:45 2026] 127.0.0.1:49666 [200]: GET /recipe-detail.php?id=10
+[Wed Apr  8 10:24:45 2026] 127.0.0.1:49666 Closing
+[Wed Apr  8 10:24:45 2026] 127.0.0.1:56084 [200]: GET /style.css
+[Wed Apr  8 10:24:45 2026] 127.0.0.1:58285 Accepted
+[Wed Apr  8 10:24:45 2026] 127.0.0.1:56084 Closing
+[Wed Apr  8 10:24:45 2026] 127.0.0.1:55133 Accepted
+[Wed Apr  8 10:24:45 2026] 127.0.0.1:58285 [200]: GET /images/logo.png
+[Wed Apr  8 10:24:45 2026] 127.0.0.1:55133 [200]: GET /images/uploads/cegoh-cupcakes-1133146-69d59a26ac5b1.jpg
+[Wed Apr  8 10:24:45 2026] 127.0.0.1:58285 Closing
+[Wed Apr  8 10:24:45 2026] 127.0.0.1:57684 Accepted
+[Wed Apr  8 10:24:45 2026] 127.0.0.1:57684 [200]: GET /images/uploads/hoaluu-pizza-2589575-69d59a2b0169d.jpg
+[Wed Apr  8 10:24:45 2026] 127.0.0.1:57684 Closing
+[Wed Apr  8 10:24:45 2026] 127.0.0.1:55133 Closing
+[Wed Apr  8 10:24:57 2026] 127.0.0.1:62842 Accepted
+[Wed Apr  8 10:24:57 2026] 127.0.0.1:49666 Accepted
+[Wed Apr  8 10:24:57 2026] 127.0.0.1:62842 [200]: GET /recipe-detail.php?id=5
+[Wed Apr  8 10:24:57 2026] 127.0.0.1:62842 Closing
+[Wed Apr  8 10:24:57 2026] 127.0.0.1:49666 [200]: GET /style.css
+[Wed Apr  8 10:24:57 2026] 127.0.0.1:59176 Accepted
+[Wed Apr  8 10:24:57 2026] 127.0.0.1:49666 Closing
+[Wed Apr  8 10:24:57 2026] 127.0.0.1:49792 Accepted
+[Wed Apr  8 10:24:57 2026] 127.0.0.1:59176 [200]: GET /images/logo.png
+[Wed Apr  8 10:24:57 2026] 127.0.0.1:49792 [200]: GET /images/lukasbieri-mediterranean-cuisine-2378758.jpg
+[Wed Apr  8 10:24:57 2026] 127.0.0.1:59176 Closing
+[Wed Apr  8 10:24:57 2026] 127.0.0.1:49792 Closing
+[Wed Apr  8 10:25:35 2026] 127.0.0.1:60608 Accepted
+[Wed Apr  8 10:25:35 2026] 127.0.0.1:60608 [200]: GET /index.php
+[Wed Apr  8 10:25:35 2026] 127.0.0.1:60608 Closing
+[Wed Apr  8 10:25:35 2026] 127.0.0.1:63363 Accepted
+[Wed Apr  8 10:25:35 2026] 127.0.0.1:63363 [200]: GET /style.css
+[Wed Apr  8 10:25:35 2026] 127.0.0.1:60413 Accepted
+[Wed Apr  8 10:25:35 2026] 127.0.0.1:63363 Closing
+[Wed Apr  8 10:25:35 2026] 127.0.0.1:50402 Accepted
+[Wed Apr  8 10:25:35 2026] 127.0.0.1:56908 Accepted
+[Wed Apr  8 10:25:35 2026] 127.0.0.1:64146 Accepted
+[Wed Apr  8 10:25:35 2026] 127.0.0.1:60413 [200]: GET /images/logo.png
+[Wed Apr  8 10:25:35 2026] 127.0.0.1:50402 [200]: GET /images/uploads/cegoh-cupcakes-1133146-69d59a26ac5b1.jpg
+[Wed Apr  8 10:25:35 2026] 127.0.0.1:56908 [200]: GET /images/jerzygorecki-vegetables-1584999.jpg
+[Wed Apr  8 10:25:35 2026] 127.0.0.1:64146 [200]: GET /images/hoaluu-pizza-2589575.jpg
+[Wed Apr  8 10:25:35 2026] 127.0.0.1:60413 Closing
+[Wed Apr  8 10:25:35 2026] 127.0.0.1:64146 Closing
+[Wed Apr  8 10:25:35 2026] 127.0.0.1:56908 Closing
+[Wed Apr  8 10:25:35 2026] 127.0.0.1:50402 Closing
+[Wed Apr  8 10:25:56 2026] 127.0.0.1:56744 Accepted
+[Wed Apr  8 10:25:56 2026] 127.0.0.1:55122 Accepted
+[Wed Apr  8 10:25:56 2026] 127.0.0.1:56744 [200]: GET /index.php
+[Wed Apr  8 10:25:56 2026] 127.0.0.1:56744 Closing
+[Wed Apr  8 10:25:56 2026] 127.0.0.1:55122 [200]: GET /style.css
+[Wed Apr  8 10:25:56 2026] 127.0.0.1:50563 Accepted
+[Wed Apr  8 10:25:56 2026] 127.0.0.1:55122 Closing
+[Wed Apr  8 10:25:56 2026] 127.0.0.1:55574 Accepted
+[Wed Apr  8 10:25:56 2026] 127.0.0.1:50563 [200]: GET /images/logo.png
+[Wed Apr  8 10:25:56 2026] 127.0.0.1:55574 [200]: GET /images/uploads/cegoh-cupcakes-1133146-69d59a26ac5b1.jpg
+[Wed Apr  8 10:25:56 2026] 127.0.0.1:50563 Closing
+[Wed Apr  8 10:25:56 2026] 127.0.0.1:63873 Accepted
+[Wed Apr  8 10:25:56 2026] 127.0.0.1:57028 Accepted
+[Wed Apr  8 10:25:56 2026] 127.0.0.1:63873 [200]: GET /images/jerzygorecki-vegetables-1584999.jpg
+[Wed Apr  8 10:25:56 2026] 127.0.0.1:57028 [200]: GET /images/hoaluu-pizza-2589575.jpg
+[Wed Apr  8 10:25:56 2026] 127.0.0.1:57028 Closing
+[Wed Apr  8 10:25:56 2026] 127.0.0.1:63873 Closing
+[Wed Apr  8 10:25:56 2026] 127.0.0.1:55574 Closing
