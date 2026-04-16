@@ -1,14 +1,67 @@
     </main>
 
     <footer class="site-footer">
-        <div class="container footer-layout">
-            <div>
-                <h3><?php echo e($site_name); ?></h3>
-                <p>A basic recipe website built with HTML, CSS, PHP and MySQL.</p>
+        <div class="container footer-inner">
+
+            <!-- Brand column -->
+            <div class="footer-brand">
+                <a href="/" class="footer-logo-link">
+                    <img src="<?php echo $base_path ?? ''; ?>images/logo.png" alt="<?php echo e($site_name); ?> logo" class="footer-logo">
+                </a>
+                <div class="footer-brand-text">
+                    <span class="footer-site-name"><?php echo e($site_name); ?></span>
+                    <span class="footer-tagline">Taste the difference</span>
+                </div>
+                <p class="footer-desc">Six of Kenya's finest chefs crafting unforgettable meals.</p>
             </div>
-            <div>
-                <p>Colorful recipe inspiration built for a school project using PHP, CSS and MySQL.</p>
-                <p>&copy; <?php echo date('Y'); ?> <?php echo e($site_name); ?></p>
+
+            <!-- Quick links column -->
+            <div class="footer-col">
+                <h4 class="footer-col-heading">Quick Links</h4>
+                <ul class="footer-links">
+                    <li><a href="/">Home</a></li>
+                    <li><a href="/recipes">Recipes</a></li>
+                    <li><a href="/about">About Us</a></li>
+                    <li><a href="/contact">Contact</a></li>
+                </ul>
+            </div>
+
+            <!-- Explore column -->
+            <div class="footer-col">
+                <h4 class="footer-col-heading">Explore</h4>
+                <ul class="footer-links">
+                    <li><a href="/recipes">Stews &amp; Soups</a></li>
+                    <li><a href="/recipes">Smoothies</a></li>
+                    <li><a href="/recipes">Baked Goods</a></li>
+                    <li><a href="/recipes">Desserts</a></li>
+                </ul>
+            </div>
+
+            <!-- Social column -->
+            <div class="footer-col footer-social-col">
+                <h4 class="footer-col-heading">Follow Us</h4>
+                <div class="footer-social">
+                    <a href="https://www.instagram.com" target="_blank" rel="noopener noreferrer" class="social-link" aria-label="Instagram">
+                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><rect width="20" height="20" x="2" y="2" rx="5" ry="5"/><path d="M16 11.37A4 4 0 1 1 12.63 8 4 4 0 0 1 16 11.37z"/><line x1="17.5" x2="17.51" y1="6.5" y2="6.5"/></svg>
+                        Instagram
+                    </a>
+                    <a href="https://www.tiktok.com" target="_blank" rel="noopener noreferrer" class="social-link" aria-label="TikTok">
+                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="currentColor"><path d="M19.59 6.69a4.83 4.83 0 0 1-3.77-4.25V2h-3.45v13.67a2.89 2.89 0 0 1-2.88 2.5 2.89 2.89 0 0 1-2.89-2.89 2.89 2.89 0 0 1 2.89-2.89c.28 0 .54.04.79.1V9.01a6.33 6.33 0 0 0-.79-.05 6.34 6.34 0 0 0-6.34 6.34 6.34 6.34 0 0 0 6.34 6.34 6.34 6.34 0 0 0 6.33-6.34V8.69a8.18 8.18 0 0 0 4.78 1.52V6.75a4.85 4.85 0 0 1-1.01-.06z"/></svg>
+                        TikTok
+                    </a>
+                    <a href="https://www.facebook.com" target="_blank" rel="noopener noreferrer" class="social-link" aria-label="Facebook">
+                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="currentColor"><path d="M22 12c0-5.52-4.48-10-10-10S2 6.48 2 12c0 4.84 3.44 8.87 8 9.8V15H8v-3h2V9.5C10 7.57 11.57 6 13.5 6H16v3h-2c-.55 0-1 .45-1 1v2h3l-.5 3H13v6.8c4.56-.93 8-4.96 8-9.8z"/></svg>
+                        Facebook
+                    </a>
+                </div>
+            </div>
+
+        </div>
+
+        <!-- Bottom bar -->
+        <div class="footer-bottom">
+            <div class="container">
+                <p>&copy; <?php echo date('Y'); ?> <?php echo e($site_name); ?> Recipes. All rights reserved.</p>
             </div>
         </div>
     </footer>

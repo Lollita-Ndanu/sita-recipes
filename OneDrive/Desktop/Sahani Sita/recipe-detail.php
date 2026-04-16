@@ -38,51 +38,40 @@ include "includes/header.php";
         <div class="empty-state">
             <h3>Recipe missing</h3>
             <p>Please go back to the gallery and choose another recipe.</p>
-            <a class="btn btn-primary" href="recipes.php">Back to Recipes</a>
+            <a class="btn btn-primary" href="/recipes">Back to Recipes</a>
         </div>
     <?php else: ?>
         <article class="detail-layout">
-            <div class="detail-image">
-                <img src="<?php echo e(media_url($recipe['image_path'])); ?>" alt="<?php echo e($recipe['title']); ?>">
+            <div class="detail-left">
+                <div class="detail-image">
+                    <img src="<?php echo e(media_url($recipe['image_path'])); ?>" alt="<?php echo e($recipe['title']); ?>">
+                </div>
+
+                <?php if (!empty($gallery_images) || !empty($gallery_videos)): ?>
+                    <div class="detail-gallery">
+                        <?php foreach ($gallery_images as $media_image): ?>
+                            <div class="detail-thumb">
+                                <img src="<?php echo e(media_url($media_image)); ?>" alt="<?php echo e($recipe['title']); ?> photo">
+                            </div>
+                        <?php endforeach; ?>
+                        <?php foreach ($gallery_videos as $media_video): ?>
+                            <div class="detail-thumb detail-thumb--video">
+                                <video controls muted playsinline preload="metadata">
+                                    <source src="<?php echo e(media_url($media_video)); ?>">
+                                </video>
+                            </div>
+                        <?php endforeach; ?>
+                    </div>
+                <?php endif; ?>
             </div>
 
             <div class="detail-content">
                 <span class="tag"><?php echo (int) $recipe['featured'] === 1 ? 'Featured Dish' : 'Recipe'; ?></span>
                 <p class="detail-summary"><?php echo e($recipe['description']); ?></p>
 
-                <?php if (!empty($gallery_images)): ?>
-                    <section class="detail-box media-box">
-                        <h2>Image Gallery</h2>
-                        <div class="media-grid">
-                            <?php foreach ($gallery_images as $media_image): ?>
-                                <div class="media-card">
-                                    <img src="<?php echo e(media_url($media_image)); ?>" alt="<?php echo e($recipe['title']); ?> gallery image">
-                                </div>
-                            <?php endforeach; ?>
-                        </div>
-                    </section>
-                <?php endif; ?>
-
-                <?php if (!empty($gallery_videos)): ?>
-                    <section class="detail-box media-box">
-                        <h2>Recipe Videos</h2>
-                        <div class="media-grid video-grid">
-                            <?php foreach ($gallery_videos as $media_video): ?>
-                                <div class="media-card media-video-card">
-                                    <video controls autoplay muted loop playsinline preload="metadata">
-                                        <source src="<?php echo e(media_url($media_video)); ?>">
-                                        Your browser does not support the video tag.
-                                    </video>
-                                </div>
-                            <?php endforeach; ?>
-                        </div>
-                    </section>
-                <?php endif; ?>
-
                 <div class="detail-columns">
                     <section class="detail-box">
                         <h2>Ingredients</h2>
-                        <!-- nl2br keeps each ingredient on its own line when stored as plain text in MySQL. -->
                         <p><?php echo format_multiline($recipe['ingredients']); ?></p>
                     </section>
 
@@ -92,7 +81,7 @@ include "includes/header.php";
                     </section>
                 </div>
 
-                <a class="btn btn-secondary" href="recipes.php">Back to Recipe Gallery</a>
+                <a class="btn btn-secondary" href="/recipes">Back to Recipes</a>
             </div>
         </article>
     <?php endif; ?>

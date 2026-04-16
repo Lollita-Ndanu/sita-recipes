@@ -1,0 +1,19 @@
+Options -Indexes
+RewriteEngine On
+
+# Allow direct access to real files (css, images, php, etc.) and directories
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+
+# ── Public pages ──────────────────────────────────────────────
+RewriteRule ^home/?$                index.php          [L]
+RewriteRule ^recipes/?$             recipes.php        [L]
+RewriteRule ^about/?$               about.php          [L]
+RewriteRule ^contact/?$             contact.php        [L]
+RewriteRule ^recipe/(\d+)/?$        recipe-detail.php?id=$1 [L,QSA]
+
+# ── Admin pages ───────────────────────────────────────────────
+RewriteRule ^admin/?$               admin/index.php    [L]
+RewriteRule ^admin/dashboard/?$     admin/dashboard.php [L,QSA]
+RewriteRule ^admin/logout/?$        admin/logout.php   [L]
+RewriteRule ^admin/upload-media/?$  admin/upload-media.php [L]

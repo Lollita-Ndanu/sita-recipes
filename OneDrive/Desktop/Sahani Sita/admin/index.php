@@ -1,10 +1,10 @@
 <?php
-require_once "../includes/auth.php";
+require_once __DIR__ . "/../includes/auth.php";
 
 start_admin_session();
 
 if (is_admin_logged_in()) {
-    header("Location: dashboard.php");
+    header("Location: /admin/dashboard");
     exit;
 }
 
@@ -35,7 +35,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
                 $_SESSION['admin_id'] = (int) $admin['id'];
                 $_SESSION['admin_username'] = $admin['username'];
 
-                header("Location: dashboard.php");
+                header("Location: /admin/dashboard");
                 exit;
             }
         }
@@ -47,39 +47,40 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
 $page_title = $site_name . " | Admin Login";
 $current_page = "admin";
 $base_path = "../";
+$is_admin = true;
 
-include "../includes/header.php";
+include __DIR__ . "/../includes/header.php";
 ?>
 
-<section class="page-banner compact-banner">
-    <div class="container narrow-container">
-        <span class="eyebrow">Admin access</span>
-        <h1>Login to the recipe CMS</h1>
-        <p>Only the admin can add, edit or delete recipes from the dashboard.</p>
-    </div>
-</section>
-
-<section class="container section-space">
-    <div class="auth-card narrow-container">
-        <h2>Admin login</h2>
-        <p class="auth-note">Default demo login: <strong>admin</strong> / <strong>admin123</strong></p>
-
-        <?php if ($login_error !== ''): ?>
-            <div class="message message-error">
-                <p><?php echo e($login_error); ?></p>
+<section class="admin-login-shell">
+    <div class="admin-login-overlay">
+        <div class="admin-login-box">
+            <div class="admin-login-brand">
+                <img src="../images/logo.png" alt="Sahani Sita logo">
+                <span>Sahani Sita</span>
             </div>
-        <?php endif; ?>
 
-        <form method="post" action="index.php" class="stack-form">
-            <label for="username">Username</label>
-            <input id="username" name="username" type="text" value="<?php echo e($username_value); ?>" placeholder="Enter username">
+            <h1 class="admin-login-title">Welcome back</h1>
+            <p class="admin-login-sub">Sign in to manage recipes on the dashboard.</p>
+            <p class="admin-login-sub"> Username: admin Password: admin123</p>
 
-            <label for="password">Password</label>
-            <input id="password" name="password" type="password" placeholder="Enter password">
+            <?php if ($login_error !== ''): ?>
+                <div class="message message-error">
+                    <p><?php echo e($login_error); ?></p>
+                </div>
+            <?php endif; ?>
 
-            <button class="btn btn-primary" type="submit">Login</button>
-        </form>
+            <form method="post" action="/admin" class="stack-form">
+                <label for="username">Username</label>
+                <input id="username" name="username" type="text" value="<?php echo e($username_value); ?>" placeholder="Enter username" autocomplete="username">
+
+                <label for="password">Password</label>
+                <input id="password" name="password" type="password" placeholder="Enter password" autocomplete="current-password">
+
+                <button class="btn btn-primary" type="submit">Login</button>
+            </form>
+        </div>
     </div>
 </section>
 
-<?php include "../includes/footer.php"; ?>
+<?php include __DIR__ . "/../includes/footer.php"; ?>

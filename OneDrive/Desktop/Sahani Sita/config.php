@@ -4,15 +4,32 @@ ini_set('display_errors', 1);
 
 $site_name = "Sahani Sita Recipes";
 
-// These are the default local database settings used by many XAMPP setups.
-$db_host = "localhost";
-$db_user = "root";
-$db_pass = "";
-$db_name = "recipes_db";
+// Live database credentials
+$db_host = "sql310.byetcluster.com";
+$db_user = "if0_41609961";
+$db_pass = "Group2Sita";
+$db_name = "if0_41609961_sahanisitarecipes";
 
-$conn = @new mysqli($db_host, $db_user, $db_pass, $db_name);
-$db_available = !$conn->connect_error;
-$db_error = $db_available ? "" : $conn->connect_error;
+mysqli_report(MYSQLI_REPORT_OFF);
+
+$conn = false;
+$db_error = "";
+
+$mysqli = mysqli_init();
+
+if ($mysqli) {
+    $mysqli->options(MYSQLI_OPT_CONNECT_TIMEOUT, 5);
+
+    if (@$mysqli->real_connect($db_host, $db_user, $db_pass, $db_name)) {
+        $conn = $mysqli;
+    } else {
+        $db_error = mysqli_connect_error() ?: $mysqli->connect_error;
+    }
+} else {
+    $db_error = "Could not initialize the database connection.";
+}
+
+$db_available = $conn instanceof mysqli && !$conn->connect_error;
 
 if ($db_available) {
     $conn->set_charset("utf8mb4");

@@ -1,5 +1,5 @@
 <?php
-require_once "../includes/auth.php";
+require_once __DIR__ . "/../includes/auth.php";
 
 require_admin_login();
 start_admin_session();

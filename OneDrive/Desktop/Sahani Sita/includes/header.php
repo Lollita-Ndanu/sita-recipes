@@ -14,6 +14,12 @@ if (!isset($base_path)) {
 if (!isset($is_admin)) {
     $is_admin = false;
 }
+
+$body_classes = array($is_admin ? 'admin-body' : 'public-body');
+
+if ($current_page !== '') {
+    $body_classes[] = 'page-' . preg_replace('/[^a-z0-9_-]/i', '-', strtolower($current_page));
+}
 ?>
 <!DOCTYPE html>
 <html lang="en">
@@ -23,14 +29,14 @@ if (!isset($is_admin)) {
     <title><?php echo e($page_title); ?></title>
     <link rel="stylesheet" href="<?php echo e($base_path); ?>style.css">
 </head>
-<body class="<?php echo $is_admin ? 'admin-body' : 'public-body'; ?>">
+<body class="<?php echo e(implode(' ', $body_classes)); ?>">
     <header class="site-header">
         <div class="container nav-wrap">
-            <a class="brand" href="<?php echo e($base_path); ?>index.php">
+            <a class="brand" href="/home">
                 <img src="<?php echo e($base_path); ?>images/logo.png" alt="Sahani Sita Recipes logo">
                 <span>
                     <strong><?php echo e($site_name); ?></strong>
-                    <small><?php echo $is_admin ? 'Simple recipe CMS' : 'Colorful homemade inspiration'; ?></small>
+                   
                 </span>
             </a>
 
@@ -39,14 +45,14 @@ if (!isset($is_admin)) {
             </button>
 
             <nav class="site-nav" data-nav-panel>
-                <a class="<?php echo $current_page === 'home' ? 'active' : ''; ?>" href="<?php echo e($base_path); ?>index.php">Home</a>
-                <a class="<?php echo $current_page === 'recipes' ? 'active' : ''; ?>" href="<?php echo e($base_path); ?>recipes.php">Recipes</a>
-                <a class="<?php echo $current_page === 'about' ? 'active' : ''; ?>" href="<?php echo e($base_path); ?>about.php">About</a>
-                <a class="<?php echo $current_page === 'contact' ? 'active' : ''; ?>" href="<?php echo e($base_path); ?>contact.php">Contact</a>
+                <a class="<?php echo $current_page === 'home' ? 'active' : ''; ?>" href="/home">Home</a>
+                <a class="<?php echo $current_page === 'recipes' ? 'active' : ''; ?>" href="/recipes">Recipes</a>
+                <a class="<?php echo $current_page === 'about' ? 'active' : ''; ?>" href="/about">About us</a>
+                <a class="<?php echo $current_page === 'contact' ? 'active' : ''; ?>" href="/contact">Connect</a>
 
                 <?php if ($is_admin): ?>
-                    <a class="<?php echo $current_page === 'dashboard' ? 'active' : ''; ?>" href="<?php echo e($base_path); ?>admin/dashboard.php">Dashboard</a>
-                    <a href="<?php echo e($base_path); ?>admin/logout.php">Logout</a>
+                    <a class="<?php echo $current_page === 'dashboard' ? 'active' : ''; ?>" href="/admin/dashboard">Dashboard</a>
+                    <a href="/admin/logout">Logout</a>
                 <?php endif; ?>
             </nav>
         </div>

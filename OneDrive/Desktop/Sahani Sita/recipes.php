@@ -10,11 +10,15 @@ $base_path = "";
 include "includes/header.php";
 ?>
 
-<section class="page-banner">
-    <div class="container">
-        <span class="eyebrow">Recipe gallery</span>
-        <h1>All recipes in the Sahani Sita collection</h1>
-        <p>Choose any recipe card to read the full ingredients list and cooking instructions.</p>
+<section class="page-hero">
+    <div class="page-hero-box page-hero-box--recipes">
+        <div class="page-hero-overlay">
+            <div class="page-hero-content page-hero-content--wide">
+                <span class="eyebrow">Recipe gallery</span>
+                <h1>All recipes in the Sahani Sita collection</h1>
+                <p>Choose any recipe card to read the full ingredients list and cooking instructions.</p>
+            </div>
+        </div>
     </div>
 </section>
 
@@ -46,7 +50,7 @@ include "includes/header.php";
                         <h2><?php echo e($recipe['title']); ?></h2>
                         <p><?php echo e(limit_text($recipe['description'], 150)); ?></p>
                         <div class="card-actions">
-                            <a class="btn btn-small" href="recipe-detail.php?id=<?php echo (int) $recipe['id']; ?>">Open Recipe</a>
+                            <a class="btn btn-small" href="/recipe/<?php echo (int) $recipe['id']; ?>">Open Recipe</a>
                         </div>
                     </div>
                 </article>

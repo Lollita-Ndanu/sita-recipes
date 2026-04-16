@@ -34,35 +34,45 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
 include "includes/header.php";
 ?>
 
-<section class="page-banner">
-    <div class="container">
-        <span class="eyebrow">Contact us</span>
-        <h1>Get in touch with the Sahani Sita team</h1>
-        <p>Use the simple contact details below or send a message through the demo form.</p>
+<section class="page-hero">
+    <div class="page-hero-box page-hero-box--contact">
+        <div class="page-hero-overlay">
+            <div class="page-hero-content">
+                <span class="eyebrow">Contact us</span>
+                <h1>Get in touch with the Sahani Sita team</h1>
+                <p>Have a question, a booking enquiry, or just want to say hello? We'd love to hear from you.</p>
+            </div>
+        </div>
     </div>
 </section>
 
-<section class="container section-space contact-grid">
+<div class="container contact-page-heading">
+    <span class="eyebrow">Contact us</span>
+    <h1>Get in touch with the Sahani Sita team</h1>
+    <p>Have a question, a booking enquiry, or just want to say hello? We'd love to hear from you.</p>
+</div>
+
+<section class="container section-space contact-grid" style="padding-top: 0;">
     <article class="content-card">
         <h2>Contact details</h2>
         <div class="contact-item">
             <img src="images/phone-call.png" alt="Phone icon">
             <div>
                 <h3>Phone</h3>
-                <p>+260 977 123 456</p>
+                <p>+254 712 345 678</p>
             </div>
         </div>
         <div class="contact-item">
             <img src="images/whatsapp.png" alt="Whatsapp icon">
             <div>
                 <h3>WhatsApp</h3>
-                <p>+260 977 123 456</p>
+                <p>+254 712 345 678</p>
             </div>
         </div>
         <div class="contact-item no-icon">
             <div>
                 <h3>Email</h3>
-                <p>sahanisitarecipes@example.com</p>
+                <p>admin@sahanisitarecipes.me</p>
             </div>
         </div>
     </article>

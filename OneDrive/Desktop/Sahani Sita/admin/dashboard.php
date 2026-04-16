@@ -1,5 +1,5 @@
 <?php
-require_once "../includes/auth.php";
+require_once __DIR__ . "/../includes/auth.php";
 
 require_admin_login();
 start_admin_session();
@@ -162,7 +162,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
                 $stmt->execute();
                 $stmt->close();
 
-                header("Location: dashboard.php?status=created");
+                header("Location: /admin/dashboard?status=created");
                 exit;
             }
 
@@ -177,7 +177,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
 
                 delete_uploaded_media_files(array_merge($removed_existing_images, $removed_existing_videos));
 
-                header("Location: dashboard.php?status=updated");
+                header("Location: /admin/dashboard?status=updated");
                 exit;
             }
 
@@ -208,7 +208,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
 
                 delete_uploaded_media_files($media_to_delete);
 
-                header("Location: dashboard.php?status=deleted");
+                header("Location: /admin/dashboard?status=deleted");
                 exit;
             }
         }
@@ -232,7 +232,7 @@ $current_page = "dashboard";
 $base_path = "../";
 $is_admin = true;
 
-include "../includes/header.php";
+include __DIR__ . "/../includes/header.php";
 ?>
 
 <section class="page-banner compact-banner">
@@ -287,11 +287,11 @@ include "../includes/header.php";
                 </div>
 
                 <?php if ($editing_recipe): ?>
-                    <a class="text-link" href="dashboard.php">Clear edit mode</a>
+                    <a class="text-link" href="/admin/dashboard">Clear edit mode</a>
                 <?php endif; ?>
             </div>
 
-            <form id="recipe-form" method="post" action="dashboard.php<?php echo $editing_recipe ? '?edit=' . (int) $editing_recipe['id'] : ''; ?>" class="stack-form" enctype="multipart/form-data">
+            <form id="recipe-form" method="post" action="/admin/dashboard<?php echo $editing_recipe ? '?edit=' . (int) $editing_recipe['id'] : ''; ?>" class="stack-form" enctype="multipart/form-data">
                 <input type="hidden" name="action" value="<?php echo $editing_recipe ? 'update' : 'create'; ?>">
                 <?php if ($editing_recipe): ?>
                     <input type="hidden" name="recipe_id" value="<?php echo (int) $editing_recipe['id']; ?>">
@@ -437,7 +437,7 @@ include "../includes/header.php";
                                     <td><?php echo e($recipe['image_path']); ?></td>
                                     <td class="table-actions">
                                         <a class="text-link" href="dashboard.php?edit=<?php echo (int) $recipe['id']; ?>">Edit</a>
-                                        <form method="post" action="dashboard.php" onsubmit="return confirm('Delete this recipe?');">
+                                        <form method="post" action="/admin/dashboard" onsubmit="return confirm('Delete this recipe?');">
                                             <input type="hidden" name="action" value="delete">
                                             <input type="hidden" name="recipe_id" value="<?php echo (int) $recipe['id']; ?>">
                                             <button class="text-button delete-button" type="submit">Delete</button>
@@ -453,4 +453,4 @@ include "../includes/header.php";
     </div>
 </section>
 
-<?php include "../includes/footer.php"; ?>
+<?php include __DIR__ . "/../includes/footer.php"; ?>
